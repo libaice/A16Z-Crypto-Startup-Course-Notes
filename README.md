@@ -4,25 +4,29 @@
 
 
 
-
-
 ### 1. 为什么要写这篇笔记
 
+A16Z(全称 [Andreessen Horowitz](https://en.wikipedia.org/wiki/Andreessen_Horowitz))是 [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen)和 [Ben Horowitz](https://en.wikipedia.org/wiki/Ben_Horowitz)两个人创造的一个风险投资机构 ，他们投了很多早期的创业和成长型企业 。他们的一些投资版图包括，健康、消费品牌、加密货币、游戏和最近在投的一些AI方面的初创企业。
 
 
-受益于[2014年的 YC 创业课 - How to Start A Startup](https://www.youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)(当时Sam Altman 还很青涩 哈哈，现在学习这篇课程，就是靠着ChatGPT一系列衍生的工具来增强课程的学习)。
+
+[这个课程](https://a16zcrypto.com/crypto-startup-school/)是A16Z举办的一个12周的一个加速器计划， 然后每一周都会有一些人来讲一些Web3创业方向的一些知识。 这个课程包括了像是Crypto方面的Why How, What, 然后一些协议设计，代币UX设计，Web3的商业模式，基建，安全 ，还有包括像是公司的企业文化 Marketing和一些社区建设的部分。
+
+
+
+受益于[2014年的 YC 创业课 - How to Start A Startup CS183B ](https://www.youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)( 课程的开讲人就是Sam，当时Sam Altman 还很青涩 哈哈，现在学习这篇课程，就是靠着他的OpenAI企业所衍生的一系列工具来增强课程的学习)。
 
 <img src="image/00-01.png" style="zoom:60%;" />
 
+当时是受[李笑来老师的推荐](https://mp.weixin.qq.com/s?__biz=Mzg2NTgxNDY0Nw==&mid=2247488830&idx=2&sn=129a78899a0daf72f7eb8e55c3f56c92&source=41#wechat_redirect)去专门看了这门Start Up课程 ，这门课程讲得非常非常好。然后演讲的嘉宾也是像[Paul Graham YC ](http://www.paulgraham.com/), Marc Andreessen(上面A16ZFounder)。他们都是创造了一些伟大的企业，在YC Start讲了成长商业模式的各种东西，比如企业成长， 融资，企业文化，然后团队建设，市场营销。对当时的我很有启发(现在也受益很多)。 
 
 
 
+课程最后的那段[Sam对19岁年轻人的建议](https://genius.com/Sam-altman-advice-for-ambitious-19-year-olds-annotated)，也是听得我热血沸腾。
 
 
 
-
-
-
+当时的我也很幼稚，课程里面的东西也没实践。
 
 
 
