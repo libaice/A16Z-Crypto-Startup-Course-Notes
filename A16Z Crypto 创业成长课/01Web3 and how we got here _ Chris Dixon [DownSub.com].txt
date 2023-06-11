@@ -1,0 +1,6408 @@
+[Music]
+
+thank you
+
+it's very exciting to have everybody here
+
+um we did this first three years ago
+
+and the original idea was
+
+um was uh that we just felt like in a
+
+lot of meetings we would just sort of
+
+there was just a lot of information that
+
+wasn't kind of getting out to the to the
+
+entrepreneurial Community
+
+um and so we said why don't we kind of
+
+encapsulate all the information and and
+
+do do a a program and frankly it just
+
+really kind of beat our expectations in
+
+terms of the just the excitement level
+
+the
+
+um the great companies that came out of
+
+it
+
+um the number I think we had over a
+
+million views on the videos and so it
+
+was just great and so we said hey why
+
+don't we do it again
+
+um and so that was sort of the origins
+
+of um of the program you're in now and
+
+as Jeff said like we were amazed at kind
+
+of the
+
+number of applications and uh and so
+
+it's just really exciting to do and
+
+we're hoping for another great session
+
+and last time we had um we got hit with
+
+uh kovid and so we didn't get to to do
+
+it all in person so hopefully this time
+
+we'll have a lot of in-person
+
+interactions and a lot of the value will
+
+come from from from
+
+from the folks you meet the other the
+
+other participants and and all the
+
+people on our Network so
+
+great so I'm going to talk a little bit
+
+about
+
+um the uh the the kind of the broad
+
+history of the internet uh why this
+
+whole kind of crypto matters blockchains
+
+matter
+
+um you know what's what's kind of the
+
+big picture in this we're going to have
+
+a lot of follow-up much more detailed
+
+talks uh from from our partners and
+
+friends over the next few weeks so I'll
+
+skip some of the detail here and just
+
+kind of give you the big picture
+
+um so basically what I'm going to talk
+
+about is the way I kind of view the
+
+history of the internet there's three
+
+years three kind of broad histories of
+
+Errors of the internet there was kind of
+
+the pre well the sort of pre-history
+
+which is you know the actual internet
+
+started in the late 60s and they were
+
+sort of government and academic kind of
+
+use cases but kind of really the modern
+
+internet began with the web 1989 and
+
+then you had sort of the internet boom
+
+in the 90s
+
+um obviously you know today it's a sort
+
+of you know throughout permeates all of
+
+our Lives it's a you know it's the the
+
+importance is indisputed but for
+
+actually for a long time during my
+
+career that was actually quite
+
+controversial and there were a lot of
+
+ups and downs along the way but
+
+basically I kind of view and I'll go
+
+into more detail as as breaking down to
+
+three kind of core eras and I believe
+
+we're entering the third era now
+
+um
+
+and then
+
+um and and kind of the way I view it is
+
+um each era is
+
+um has kind of is marked by having a key
+
+Network architecture and I'll talk more
+
+about this but networks are kind of the
+
+in my mind the killer app of the
+
+internet and the architecture there's a
+
+very interesting thing which is the
+
+architecture of how you build those
+
+networks has all sorts of Downstream
+
+consequences in terms of the economics
+
+and the user experience and other kinds
+
+of things so there's kind of this nice
+
+symmetry where there's either way I view
+
+it is this sort of three years the
+
+internet each one had its had its kind
+
+of dominant network type each one also
+
+had kind of it's it's um what I think of
+
+as it's canonical Computing primitive so
+
+the web came along and uh you know you
+
+had this idea imagine you had a product
+
+idea I'm going to have everybody in the
+
+world put information on a big
+
+repository and share it and it's not
+
+going to be total chaos right you need a
+
+simplifying principle right like how are
+
+you going to make this not okay it's a
+
+it's a it's there's it's a the web is
+
+sort of this massive multiplayer social
+
+game right and so like how are you going
+
+to make this thing not cacophonous and
+
+the answer was a website it was a very
+
+it's we take it for granted now it's the
+
+oxygen we breathe we assume this is just
+
+how things are that was a very profound
+
+idea there's some great videos and you
+
+can look at from the 60s of people kind
+
+of inventing these ideas but the idea
+
+was you can take this information
+
+whatever you want to do code data
+
+anything else you want you can put it in
+
+a thing called a website and that
+
+website can link to other websites and
+
+this was a very important kind of
+
+encapsulating mechanism simplifying
+
+mechanism to take this really profound
+
+idea of like all of humanity is going to
+
+have information that links to each
+
+other and make it something that you
+
+could that you could actually kind of
+
+work with right and give it a sort of a
+
+digestible unit
+
+um and then in the right ear so I call
+
+it read write on sort of the read era is
+
+that we democratized in the in the first
+
+year of the internet roughly 1990 to
+
+2005 democratized information
+
+consumption that was mostly what it was
+
+about the killer app of that era
+
+um was Google and Wikipedia and things
+
+like well Wikipedia's a little bit later
+
+but like you Google something and you
+
+find it that was a magical new
+
+experience so someone said that the that
+
+the average user now has more
+
+information at his or her fingertips
+
+than the president United States did 30
+
+years ago right like it's it's kind of
+
+remarkable we obviously I'll take it for
+
+granted that's really what the first era
+
+did but you know having lived through
+
+that I was a software developer back
+
+then it was still very much what I call
+
+skeuomorphic it was the web felt like
+
+you'd take magazines and you'd put them
+
+you know sort of as websites like
+
+brochures and it was it was sort of a
+
+one-way interaction there was some like
+
+you would submit a form or do something
+
+else but it wasn't like a really a
+
+social experience and then um in the uh
+
+I'll just oops
+
+um
+
+in the uh in the kind of 2000s I was
+
+there this is a really exciting time one
+
+of my favorite times in my career was in
+
+the early 2000s and we'd be sitting
+
+around rooms like this literally like
+
+this is kind of like a bunch of people
+
+we were all excited and we're like What
+
+if you could suddenly what if you could
+
+there were little early inklings of it
+
+but like what if you could make the web
+
+really a genuinely two-way medium right
+
+where where it would democratize
+
+publishing the way that the first era
+
+democratized consumption right
+
+um you know so that was there were sort
+
+of early precursors to a lot of it came
+
+out of blogging there was blogging was
+
+kind of this this kind of interesting
+
+Fringe movement where people would post
+
+stuff in simple ways and you had
+
+software to do it
+
+um and that that led to people like Mark
+
+Zuckerberg creating Facebook a lot of
+
+the ideas for social networking and
+
+things were taken from those early kind
+
+of communities of bloggers and other
+
+kinds of things in fact you can kind of
+
+I look at blogging as kind of this
+
+primordial soup where you had all this
+
+kind of genetic mutation and things come
+
+out unless you had Flickr and that
+
+flicker led to photo they were sort of
+
+photo blogging there was link blogging
+
+there was a whole bunch and each one
+
+each kind of genealogy genealogical tree
+
+led to like a whole set of interesting
+
+products
+
+um and so that so that was sort of the
+
+right era um and you know it was a wild
+
+success it was incredible right like it
+
+it like I think back to conversations we
+
+had kind of like this in 20 years ago
+
+and we were like what if someday you
+
+could anyone could publish something
+
+this and then like it's kind of amazing
+
+how well it worked
+
+um but there was um and I'll talk more
+
+about this there was I think there was
+
+sort of this Faustian bargain where
+
+there was a downside to it which is the
+
+the thing that brought us there was a
+
+new network architecture
+
+um called corporate Network I think this
+
+is the next slide yeah so
+
+let me let me then step back for a
+
+second um the the you know one of the
+
+kind of amazing accidents of his
+
+accident historical happen stances I
+
+guess is um I said accident once and I
+
+and Tim berners-lee like said what
+
+accident like you know so anyway so I I
+
+just a blog post so I should be careful
+
+it was a very great design decision
+
+early on and had to do with the history
+
+of the internet it came out of Academia
+
+government IP the actual kind of base
+
+layer of the internet was a DARPA
+
+project
+
+um and uh basically what was at the time
+
+you sort of you're in the 80s and you
+
+want to build this Global multiplayer
+
+social game called the web how do you
+
+architect it there were no Google's AWS
+
+data centers and this and that so you
+
+had to build it in this peer-to-peer way
+
+right and so what they did is they came
+
+up with what we can now call protocols
+
+which are just standards I mean there
+
+you can go and look at the https the
+
+kind of HTTP is this is the standard for
+
+the web and SMTP is a standard for email
+
+and a protocol is kind of like a
+
+language like a language like English
+
+like it's like a set of things like if
+
+you want to send me something here's the
+
+rules for doing it right
+
+um and and the idea was anyone could
+
+just and then what would happen is the
+
+protocol would get built into software
+
+if someone would build open send mail
+
+and Mosaic and all these other kinds of
+
+tools that would that would then take
+
+that and codify that protocol
+
+um and then you go download that
+
+software and you'd be you'd join email
+
+you join the web right
+
+um but very importantly there was no
+
+Central intermediary no one controlled
+
+it there's standard bodies and things
+
+but it's sort of like for we're all
+
+crypto here it's like you know people
+
+debating eips essentially like VIP you
+
+know for like it was sort of a
+
+community-led thing
+
+um there was no no one really in charge
+
+and very importantly it didn't charge
+
+you any money you could put a website
+
+you had to buy a domain eight dollars
+
+but like you put it up and if you build
+
+Amazon literally or Google literally you
+
+made a trillion dollars like and it was
+
+yours right
+
+um or didn't make it the company's worth
+
+that you know so like the point was you
+
+built something and you own it and it's
+
+not just the the big companies this was
+
+a very long tale of creative people you
+
+know artists and game designers and
+
+anyone who wanted to this is a very
+
+important idea anyone who wanted to
+
+could go up as long as it was legal and
+
+you could build a website and if it was
+
+valuable you could keep the money if you
+
+built your musician and the artist or
+
+whatever and you built an audience you
+
+get to keep them same with the email
+
+know this is a very very important idea
+
+and by the way it didn't have to people
+
+kind of look at it like it's inevitable
+
+it's not if you go read the history of
+
+it there were like a lot of smart people
+
+who thought that actually this
+
+information Super Highway if you go read
+
+the history that was not the web that
+
+was this corporate alternative to it run
+
+by Comcast and Disney and other things
+
+in fact it's quick anecdote Bill Gates
+
+wrote a book called the road ahead I
+
+think it was 1995 and it was two years
+
+after the browser came out so kind of
+
+you know things had started
+
+um and he talks about all his
+
+predictions of the future and he did not
+
+use the word the web in that book in
+
+fact later then bought all the copies
+
+and to get them off the market and put
+
+out a revised version and so like it was
+
+not obvious in 19 even 1995 like two
+
+years into like this is two years after
+
+the Netscape IPO you know so this is not
+
+it was it was already happening right
+
+but it was like there were two competing
+
+architectures there's like can companies
+
+own it or is it going to be this crazy
+
+kind of it was a pretty radical idea
+
+like anyone can add something on nobody
+
+owns it
+
+um and and I I would argue it led to all
+
+of these incredible and Innovations in
+
+the 90s right because you had this sense
+
+of genuine ownership you had sort of
+
+property rights um I won't go into the
+
+details but that a very important thing
+
+in that is DNS so DNS is the naming
+
+system of the you know domain name
+
+system so I own C dixon.org and that
+
+maps to an IP address and a very very
+
+important idea in the first year of the
+
+web is that
+
+I I control that mapping it's a very
+
+simple thing right it's just this is
+
+this is a it's a very important point I
+
+think it's lost a lot this one simple
+
+decision which is the user controls the
+
+mapping that shifted all the power of
+
+the network to the user right because
+
+what that means is I can build up my
+
+website I just did this recently I
+
+switched hosting provider for my website
+
+and when I switch host I don't like they
+
+charge me too much they're slow whatever
+
+who cares I have the power I switch
+
+right I switch and I kept my network I
+
+kept my inbound links I kept my search
+
+results same with email although that
+
+you know email you could debate is now
+
+maybe getting kind of hijacked by Gmail
+
+it's so powerful but at least for 25
+
+years email was the same thing you don't
+
+like it you can leave and that what that
+
+did is it forced the providers the Gmail
+
+providers the browsers all these people
+
+to play nice they can't go and they
+
+can't do all these things when we get to
+
+corporate networks we'll talk about
+
+where they play games and take the money
+
+and do all these other things they can't
+
+because you can switch and it's not
+
+switch like fake switch like you know
+
+Facebook has some feature where you can
+
+download a CSV file and take it's that's
+
+it's fake because you don't take your
+
+audience with you if you build up a
+
+million follow I'm I have a lot of
+
+followers on Twitter I can't believe I
+
+can't I can download the follower list
+
+but I can't take my audience with me I
+
+don't want you know I want to opt out I
+
+want to use different software no you
+
+can't do it anyway so
+
+and that that was a very very important
+
+thing and it you know sort of happened
+
+partly through I think the foresight of
+
+the designers
+
+um partly because you just had no other
+
+way to kind of architect it back then
+
+you didn't have Central intermediaries
+
+um you know partly because it was
+
+government funded there's a whole bunch
+
+of reasons but it was a great thing
+
+right
+
+so then
+
+um the uh let me come back to this the
+
+um so then so then in the sort of you
+
+had this rise of the kind of the right
+
+era networks in the 2000s um and you
+
+know this has I guess fast forward for a
+
+second this has led to you know today a
+
+few kind of quick stats
+
+um uh you know so going back is sort of
+
+you had this fascian bargain so you have
+
+these new Services which I'll talk more
+
+about the architecture of them in a
+
+second I call them corporate networks
+
+um they had a lot of advantages things
+
+like YouTube and Twitter and Facebook
+
+they were better user experience you
+
+could subsidize hosting costs you could
+
+do all sorts of things
+
+um and there's a bunch of reasons why
+
+the sort of next year of the internet
+
+was dominated by these corporate
+
+networks the downside I think today you
+
+fast forward and I think it's we're in a
+
+really problematic situation right now
+
+where all these wonderful things I was
+
+talking about earlier in the internet
+
+are basically I mean you still have
+
+those networks but they don't matter as
+
+nearly as much right if you go talk to I
+
+don't know a person down the street in
+
+La who's an influencer they're not
+
+trying to build a website and or an
+
+email list for the most part someone
+
+that there's some backlash with sub
+
+stack and things but for the most part
+
+it's tick tock it's Facebook it's
+
+Instagram Etc right
+
+um and so this has led to the top one
+
+percent of websites is it's 95 of web
+
+traffic 80 I think 85 of mobile apps the
+
+you know the economics are similar the
+
+NASDAQ 150 of NASDAQ 100 is the five big
+
+tech companies that's doubled over the
+
+last decade that will continue to double
+
+things like AI I think will accelerate
+
+those Trends so we're basically like I
+
+don't know if this is you can debate
+
+whether it's a good or bad thing I don't
+
+think it's a good thing but we're
+
+basically headed to a world where five
+
+companies control the internet and it's
+
+very very different than that kind of
+
+original vision
+
+so you know what is the internet like
+
+the internet
+
+we know what the internet is on a
+
+technical level but I I see the internet
+
+as a a system for creating networks so
+
+if you look at your phone
+
+and you think about the things you spend
+
+time on the internet most of what you
+
+interact with are networks
+
+um email is a network uh the web is a
+
+network Tick Tock Network Instagram to
+
+network Uber's Network eBay is a network
+
+like most of the things you do on the
+
+internet networks
+
+um and as I was describing before with
+
+things like DNS
+
+the way you build the network ends up
+
+having all of these very important
+
+Downstream consequences around the
+
+economics and governance and and who who
+
+can build I don't know I would say
+
+a quarter of our companies are rejected
+
+by Apple these days like you want to get
+
+in the app store you got to get the
+
+permission that didn't happen on the web
+
+right the web as long as it was legal
+
+you could do it so who can build you
+
+know there's a very famously uh this
+
+happened with there was a whole period
+
+you're probably all too young remember
+
+this but like a lot of my friends were
+
+building Twitter apps and Facebook apps
+
+2010-ish that was like the thing to do
+
+why because that was sort of the new
+
+internet and you'd build on top of the
+
+new internet and all of those companies
+
+got wiped out because they changed the
+
+apis they changed the rules because they
+
+unilaterally control it
+
+so Network architecture is Destiny and
+
+as I was describing protocol networks
+
+have this sort of decentralized thing
+
+where there's no one in charge corporate
+
+networks you know there's there's a sort
+
+of trade-off that you had which is on
+
+the one hand they can do a lot of stuff
+
+and I'll talk about that there are good
+
+things about it I don't want to
+
+disparage it um too much
+
+um but uh but there's a there's a big
+
+negative which is essentially you're
+
+just saying this company behind it has
+
+complete power they have complete power
+
+of the economics they have complete
+
+power over the governance who has access
+
+all these other things
+
+um and specifically like so for example
+
+there's a very important
+
+um uh and I'll talk more in detail about
+
+it in a bit but there's a very important
+
+Concept in networks called take rate
+
+which is the percentage of the sort of
+
+the money think of it as like there's a
+
+river and there's money flowing through
+
+this River and how much does the does
+
+the network operator take of that River
+
+it's kind of shocking but in social
+
+networks it's basically outside of
+
+YouTube it's 100 all right so they take
+
+100 so it's 150 billion dollars a year
+
+of last year in social networking
+
+Revenue all of it went to the networks
+
+uh you know I think you can make a very
+
+strong case that if it were architected
+
+as a protocol if social networking had
+
+if RSS specifically which I'll talk more
+
+about
+
+had won as an open protocol alternative
+
+social networking a huge part of that
+
+150 billion would have gone to creators
+
+and users and software developers
+
+instead it goes to the central
+
+intermediaries maybe that's a good thing
+
+maybe that's a bad thing but that's the
+
+fact is that the architecture is Destiny
+
+and if you build networks in this way
+
+that are corporate networks
+
+um you end up with the economics and
+
+governance that we have today
+
+um
+
+you know for me the the you know the way
+
+I won't go too much into blockchains
+
+themselves because I know we have
+
+sessions on that I view blockchains as a
+
+they're a new kind of sort of virtual
+
+computer built on a network of computers
+
+the key feature of blockchains is they
+
+invert so in the traditional Computing
+
+architecture
+
+if I you know put put a if Google puts a
+
+server up and puts up a network
+
+um ultimately they control that Network
+
+as they control the hardware they can
+
+change the software they do it all the
+
+time imagine as a thought experiment if
+
+Google said we're going to have Google
+
+coin and we promise we'll only have 21
+
+million Google coins no one would
+
+believe it right because they would just
+
+change it at some point there'd be
+
+different management team or something
+
+else and Founders leave and things
+
+change and you just if you give that
+
+power to one group it's just not it's
+
+not really credible blockchains invert
+
+that what blockchains do is they say
+
+we're handing the power over to software
+
+right
+
+um the software is in charge right if
+
+you write a smart contract in ethereum
+
+this is assuming consensus works and I
+
+think the folks in this room understand
+
+that but like making certain assumptions
+
+and of course in the case of let's say
+
+ethereum these assumptions have held
+
+through the life of ethereum right the
+
+code has if you write code for ethereum
+
+you write something on chain
+
+that that you know that that is
+
+immutable code
+
+and so you can do a lot of things with
+
+immutable code I think the most
+
+important thing you can do with it is
+
+you can build new networks you can build
+
+networks on top of blockchains that
+
+give you the societal benefits of
+
+protocol networks but a lot of the
+
+competitive advantages of corporate
+
+Networks
+
+um I'm gonna I talked about a little bit
+
+about this about protocol networks the
+
+um
+
+the you know I think the key thing to
+
+think about is
+
+that
+
+you kind of divide kind of the features
+
+into two buckets I think of his
+
+economics and control
+
+um so economics very importantly
+
+protocol networks took no money there
+
+was no take rate all the money flowed to
+
+the edges uh on the control as long as
+
+it's legal you can do it you know that
+
+allows for all sorts of interesting
+
+Innovation they had a big weakness which
+
+is how do you fund them right so email
+
+on the web they funded through kind of
+
+government funding and everything else
+
+there's a there's a kind of a really
+
+interesting case study of in the 2000s
+
+there was a protocol for people I know
+
+RSS but RSS was like a legitimate
+
+competitor to Facebook and Twitter I
+
+would say up until I think it's like
+
+2010 or 11 if you look at Google Trends
+
+it dropped dramatically
+
+um and so the idea with RSS is hey like
+
+all these great things we've done with
+
+with the web and
+
+an email and sort of all the advantages
+
+of protocols this new thing social
+
+networking is coming the internet's
+
+going to be more more than just reading
+
+information it's now going to be for
+
+publishing information let's build a
+
+protocol to do that right and so that
+
+was RSS um I was a big RSS user it was
+
+sort of the default early Twitter and
+
+Tumblr and all these Facebook even they
+
+had RSS interoperability that was just
+
+the Assumption you had to have that
+
+um and that was great the problem with
+
+it is you know Facebook is all these
+
+companies they raised many billions of
+
+dollars of venture capital uh they have
+
+they could hire all these developers
+
+very importantly they could subsidize so
+
+let me give you an example so YouTube
+
+came out in 2005 and I remember that it
+
+was like broadband Broadband was just I
+
+think it had just hit like 40 or
+
+something like this a penetration
+
+believe it or not like everyone else saw
+
+a dial up and and so then entrepreneurs
+
+you know being smart entrepreneurs that
+
+they are light bulb went off and they
+
+said hey let's a bunch of friends of
+
+mine and people I knew were you know
+
+were saying hey let now that you've got
+
+Broadband you can have high quality
+
+video so let's go do video startups
+
+right so that was a big wave in like
+
+2005-ish and then just like all these
+
+kind of startup waves you had different
+
+strategies so like some people would go
+
+and try to license content Sports
+
+content and CBS content YouTube actually
+
+YouTube star is a dating site but then
+
+they pivoted a video dating site but
+
+they pivoted and they said let's take
+
+this view of kind of viral social videos
+
+you know anyone can upload anything
+
+right it's very controversial if you go
+
+when Google bought them is very
+
+controversial because they they were
+
+seen as just sort of piracy and it's all
+
+the kind of the sort of stuff you hear
+
+like about crypto today like a lot of
+
+this stuff was very much more Wikipedia
+
+was banned on universities it was huge
+
+controversy but it's crazy now
+
+um but anyway so YouTube said let's you
+
+know let's let anyone do that but the
+
+problem is YouTube had no traffic in the
+
+beginning all right
+
+um and so like why would I go and post
+
+something on YouTube and so they did I
+
+call this strategy I have a blog post
+
+about it come for the tool stay for the
+
+network and the idea is a strategy for
+
+kind of proliferating a network which is
+
+you give sort of you think of a network
+
+there's sort of a single player mode in
+
+the multiplayer mode like a video game
+
+um and so you sort of come up with like
+
+what what's a single player use case
+
+until you have a big enough Network
+
+um and so what YouTube said here's the
+
+single player mode which is you get free
+
+you get free easy hosting so you like I
+
+Chris Dixon have web traffic but it's
+
+all on my website I don't want to care
+
+about YouTube they have no traffic in
+
+the beginning
+
+um and so but but they gave me free
+
+hosting so I went uploaded the video
+
+they hosted it they put in a nice little
+
+um you know widget and then I would
+
+embed it on my site that's actually how
+
+YouTube started right
+
+um but it was free hosting now RSS what
+
+would I have to do at the time I'd have
+
+to go buy a domain which at the 2000s
+
+people like me were still the dominant
+
+internet users like people that had
+
+domains that's not true today most
+
+people don't have domains um it's still
+
+kind of a technical nerdy thing
+
+um you get to go buy domain but then you
+
+had to pay for hosting costs it was
+
+expensive so like host a video and
+
+everything else so YouTube subsidized it
+
+right so that that's a huge
+
+architectural advantage to corporate I
+
+would argue that's probably the main
+
+architectural Advantage corporate
+
+networks had over protocol networks and
+
+why RSS loss to Facebook and Twitter and
+
+everything else is they could raise
+
+venture capital and fund it and by the
+
+way the other thing just mention is
+
+um
+
+if you go back it's funny to think about
+
+but early 2000s eBay was probably the
+
+most uh respected like Wall Street
+
+respected internet company more than
+
+Google more than in fact the stock was
+
+higher than Amazon
+
+um you know Amazon was seen as kind of
+
+this really capex Opex you know heavy
+
+you know they had to actually ship stuff
+
+eBay was this beautiful pure Network
+
+um the uh it was a pure Network effect
+
+they just put up a website you had
+
+sellers you had buyers they didn't have
+
+to ship they didn't have to handle
+
+payments that was outsourced they
+
+eventually bought PayPal but like
+
+um and and it was this beautiful Network
+
+so and and the you know benchmark who
+
+had done there's a book about them like
+
+that was one one probably one of the
+
+most famous I think it was the best
+
+returning one of the best training
+
+Investments of the 90s and so VCS in the
+
+2000s they understood networks right as
+
+being the biggest Money Maker right and
+
+so when YouTube and Twitter you had tons
+
+and tons of money come into that space
+
+and I think it just flooded over and
+
+ended up look if you look at the stats
+
+like it just crushed
+
+um uh you know uh RSS and
+
+um uh and you know and just all sort of
+
+there were a bunch of other attempts to
+
+do kind of protocol Network Alternatives
+
+um so that's why we had sort of this
+
+rise of corporate Network so
+
+um then what happens is this was very
+
+interesting for me is
+
+um
+
+you know I'd say like for me at first I
+
+would say I for me it didn't really the
+
+light bulb didn't go off like this is a
+
+problem until probably 2010-ish or
+
+something
+
+um because at first it's like okay so
+
+what so like you know you've got this
+
+these are subsidizing they're
+
+subsidizing the hosting costs you know
+
+they're still supporting RSS they're
+
+still supporting all these apis this is
+
+a good thing right but then you had this
+
+moment in fact Twitter uh Twitter
+
+launched I believe 2006. they actually
+
+didn't have an app or uh or a client
+
+until 2010 and they they got it through
+
+an acquisition tweety tweety I think or
+
+some other Twitter client
+
+um and then they actually deprecated it
+
+but it was time around like 2011 and 12
+
+if you go look at the news like all
+
+these uh Services basically stop
+
+supporting RSS deprecated all their apis
+
+there's very famously like Zynga and a
+
+bunch of other companies that were like
+
+cut off from Facebook's API Twitter had
+
+this I mean there were there was
+
+literally a VC firm I knew it I knew the
+
+people there who that was focused on
+
+funding Twitter apps it was that big of
+
+a sector I mean there was like it was a
+
+big sector of startups it just like
+
+ended overnight
+
+um and so and at some point it was like
+
+wait what's going on this is different
+
+like this is not like the web so the
+
+web's changing this is for me the light
+
+bulb moment when I got into crypto
+
+um and I you know I've thought about a
+
+lot over the years and this is kind of
+
+my analysis here
+
+um which is what happens is uh you know
+
+you're early on your your Facebook is
+
+basically this cycle and that over time
+
+the incentives this is nothing to do no
+
+one's malicious no bad I'm not impugning
+
+anyone's motives here this is just like
+
+to me the logic of this network which is
+
+these types of networks this
+
+architecture which is when you start off
+
+look you start off your YouTube you're
+
+five people in the room you're doing
+
+everything you can to get creators on
+
+you're giving subsidies you're doing all
+
+sorts you know you're just like because
+
+you have no network effect right
+
+but then eventually you scale up you
+
+have a big Network effect
+
+and your incentives change I mean
+
+literally like I've been in these board
+
+rooms where it's like hey now you got to
+
+focus on making money you know I mean so
+
+there's like the literal kind of
+
+embodiment of it but it's also like at
+
+that point like interoperating isn't as
+
+useful I'm the big guy like if you just
+
+if you kind of look at you know for you
+
+know sort of this Metcalf law which is
+
+this idea that which is roughly accurate
+
+which is the idea that networks kind of
+
+the value increases exponentially as the
+
+number of nodes the network goes up if
+
+you just think about that like if you're
+
+if you're a telecom company that has 95
+
+market share in the country and you're
+
+another Telecom company has five percent
+
+of the you know the 95 person doesn't
+
+really need to interoperate with the
+
+five percent they can have a good
+
+business most people will use a service
+
+five percent needs to right so there's
+
+just a core logic to kind of these
+
+corporate networks where
+
+um the big the bigger you get the less
+
+incentive you have to interoperate uh to
+
+support kind of other networks to allow
+
+creators on and you you get into I say
+
+called the attract extract cycle you
+
+start off trying to attract all these
+
+different people around your network and
+
+then at some point you start squeezing
+
+them
+
+and you try to take the money out
+
+um and to me this comes out of again
+
+it's not like the problem of and people
+
+try to mitigate it you know Google's
+
+famously don't be evil like hey we
+
+promise we're not going to do it but the
+
+reality is Founders leave and you know
+
+and eventually the sort of logic of the
+
+model takes over and like the profit
+
+maximizing strategy of a corporate of a
+
+net of a company that owns a network is
+
+to eventually uh start extracting
+
+um if you don't do it your competitors
+
+will do it and you'll go out of business
+
+so like that's just the way this these
+
+markets work
+
+um so this is the challenge with them
+
+and then I mentioned earlier the take
+
+rates
+
+um you know I think for me the two kind
+
+of there's you people can debate I mean
+
+you see in the headlines there's all
+
+sorts of controversy de-platforming
+
+there's politics there's how do they
+
+rank the algorithms like I'm not gonna
+
+get into that stuff that's not my kind
+
+of main interest my main interest is I'd
+
+say is twofold the economics they take
+
+100 in generally it makes it really
+
+really hard for the ecosystem to make
+
+money and then the stifling Innovation
+
+competition so you know epic is suing is
+
+suing Apple as an example you know maker
+
+fortnite like you know if you've tried
+
+to buy a Kindle I always think it's
+
+funny when you try to buy a Kindle book
+
+on your iPhone you have to go to their
+
+website it's because they're getting
+
+around the payment thing they charge 30
+
+on payments like the the normal fees on
+
+payments is like two percent this is
+
+crazy so
+
+anyways that's corporate networks
+
+um so like I talked a little about this
+
+like look it's you know I the funny
+
+thing about being in the space we're in
+
+is like like I sort of see that the
+
+world is there's people who agree with a
+
+lot of the stuff I've said like Jack
+
+Dorsey and I don't know a bunch of other
+
+kind of people who seem to think okay
+
+there is a problem with corporate
+
+networks I think that's sort of decision
+
+point one a bunch of friends of mine who
+
+are open source developers like decision
+
+point one is do you think there's a
+
+problem today and then this and then
+
+this decision point two is what's the
+
+solution and you'll see a lot of people
+
+try to go back to protocol Networks I I
+
+would love it if we could do that I've
+
+been trying to do it for you know
+
+involved in this stuff for 20 something
+
+years and like literally if you go back
+
+the only protocol networks that ever
+
+gotten to scale were the web and email
+
+and they were both sort of incubated in
+
+this Hatchery fish environment before
+
+they had competition it's been 30 years
+
+since you had a new protocol Network
+
+that's seated and like RSS you know I
+
+have a lot of friends like you see
+
+they'll try to build new things on RSS
+
+like I'd love for succeed but like let's
+
+just be real like it's just not working
+
+and let's go figure out what the problem
+
+is diagnose it and come up with a better
+
+Network architecture
+
+okay
+
+um
+
+there's here's just a slide around the
+
+take rates
+
+um these are the left side is the scale
+
+of these companies the right size the
+
+take rate I'll come later on to
+
+blockchain network take rates you know
+
+zingo was a famous example where they
+
+stifled Innovation so the question is is
+
+there a better way so like you know so
+
+for me like I've been now involved in
+
+this this space for over 10 years
+
+um for me like I started to sort of
+
+sense that there were like real issues
+
+here
+
+um and and you know when blockchains
+
+came along it took me a while to kind of
+
+articulate it the way I am but I think
+
+that to me the exciting part was that
+
+this was a new way that you could build
+
+networks that have the societal benefits
+
+of protocol networks and all the good
+
+things sort of The Best of Both Worlds
+
+the societal benefit protocol networks
+
+but they can actually get funding and
+
+features to compete with
+
+corporate networks
+
+um so uh you know I think folks here
+
+know this and we'll talk more about
+
+blockchains later but you know this
+
+doesn't really come out in the slide but
+
+the essentially a blockchain you still
+
+have a core right you have a blockchain
+
+network so let's take you know something
+
+like uniswap as an example there is core
+
+of smart contract code running right but
+
+the idea is that core two couple things
+
+one is immutable code right so like unit
+
+swap's a good example where
+
+um the the they can't even the even the
+
+community can't change that code right
+
+there's no upgrade mechanism nothing
+
+it's just that code is that code if
+
+they've released new versions it's
+
+literally a new set of code it's
+
+immutable code
+
+it's instead of don't be evil it's can't
+
+be evil they can't change the rules they
+
+can't screw you later on that kind of
+
+attract extract cycle they just can't do
+
+it it's just it's in the code and so you
+
+can decide as a developer as a user you
+
+know or like take a social I think uh
+
+some some folks here building on
+
+forecaster like you have a new Social
+
+Network built on a blockchain right
+
+um they the rules are going to be baked
+
+in there they're in the smart contract
+
+and you can decide if you're a developer
+
+do you want to build on that you can
+
+shop around and you know what you're
+
+getting right that's very important so
+
+you have competition and you have you
+
+know you have people you have Choice
+
+um and so you know what you should think
+
+of here is the core is much much smaller
+
+than in a corporate Network you're
+
+building the way I think about the
+
+analogy I like to think about blockchain
+
+networks is it's much more like building
+
+a city than building like a theme park a
+
+corporate network is like a theme park
+
+in the sense that the corporate owner
+
+you know Facebook they every single
+
+feature of Facebook and Twitter is built
+
+by a Facebook or Twitter or Tick Tock
+
+whatever pick your network it's built by
+
+an employee of that company at this
+
+point essentially right because they've
+
+kind of killed off all the Innovation
+
+around it and so that's why they have
+
+Google has 180 000 employees Facebook
+
+has 50 whatever those people build all
+
+the features right and so if you want to
+
+if you're Twitter and you want to solve
+
+the spam problem they've got to go
+
+figure out how to solve the spam problem
+
+with the email on the web you know the
+
+email spam was a huge issue late 90s
+
+early 2000s what happened what solved it
+
+it's not solved but it's a lot better uh
+
+Market solved it there were 100 you know
+
+two early 2000s there were 50
+
+venture-backed anti-spam companies Gmail
+
+uses postini which they acquired the
+
+startup
+
+so you create use the markets to do it
+
+so blockchains are very similar and that
+
+you have the goal would be like a city
+
+you would sort of like you if you're
+
+building a blockchain network here you
+
+want to go build the core of the network
+
+you know the mayor's the town hall and
+
+the fire department the police sort of
+
+the basic rules and governance really
+
+the minimum you can kind of build and
+
+then you want to create incentives for
+
+people to build around it and those
+
+incentives can be both like they can't
+
+be evil incentive it's like hey if you
+
+build this you get to keep it
+
+um they can also be token incentives and
+
+there's a whole bunch of mechanisms very
+
+rich design space and blockchains to do
+
+all sorts of interesting kind of
+
+incentive design and also by the way to
+
+to accrue capital and fund developers
+
+and all these other things that RSS
+
+couldn't do right this is when I say
+
+it's sort of The Best of Both Worlds
+
+right so you get this open ecosystem
+
+these cities these digital cities it's
+
+kind of substrate upon which you build
+
+the applications and networks of the
+
+future
+
+and and all these kinds of wonderful
+
+things around protocol networks but you
+
+also get funding and then of features it
+
+gets a little more technical here but
+
+like
+
+essentially and I think just speaking
+
+some folks who are doing
+
+um ethereum you know new naming systems
+
+on top of ens East ID the um and and I
+
+think there's a bunch of interesting
+
+ideas there you can also solve a lot of
+
+the issues with um that I was describing
+
+before with things like domain names and
+
+just sort of making it a modern user
+
+experience I mean ideally what we want
+
+right I think in 2023 if you don't have
+
+feature parity with corporate Networks
+
+you're probably not going to make it
+
+like people have very high bar users
+
+have very high bar you need to have a
+
+very good experience you can't charge
+
+eight dollars and buy go buy a domain
+
+name and GoDaddy pay eight dollars and
+
+come back and visit me like it's not
+
+gonna work okay like you gotta have
+
+future parity with corporate networks
+
+you've got to have you know whatever it
+
+is five screen login and all this other
+
+creative account and all these other
+
+kinds of things
+
+um and and having a central logically
+
+centralized organizationally
+
+decentralized blockchain core right so
+
+meaning logically centralized like ens
+
+there's one
+
+place that keeps that database is one
+
+canonical state but it's not controlled
+
+by one person or one organization it's
+
+controlled by a community right that's
+
+that's a that's a brand new thing that
+
+blockchains introduced right so you get
+
+the benefit there's a there's a huge I
+
+could go on about this but if you
+
+compare something like a forecaster to a
+
+mastodon what are called Federated
+
+networks
+
+Federated networks are kind of I think
+
+of them as a subtype of protocol
+
+networks they're still protocol networks
+
+and the basic idea is I will talk about
+
+this it's important I think
+
+um the basic idea with Federated
+
+networks is you're sort of saying this
+
+is Mastodon you folks probably know
+
+about this right so is you're basically
+
+saying I agree with you Chris that
+
+there's a problem with you know one
+
+person owning our Global Micro messaging
+
+services and social networks and all
+
+these other things right some people
+
+don't agree so they agree with that my
+
+solution for solving it is to take this
+
+one big giant dictatorship and chop it
+
+up into a lot of smaller dictatorships
+
+right that's what Federated networks are
+
+so each server is a little mini
+
+dictatorship but the idea is if they get
+
+small enough that people can choose and
+
+play off the little mini dictatorships
+
+against each other and they keeps them
+
+in check and that's the way to keep the
+
+power kind of decentralized right and
+
+that and look I I view that as an
+
+experiment we already ran if Twitter
+
+Tumblr all these services in the 2000s
+
+they were all marketed as RSS servers
+
+and what happens is eventually one of
+
+one or a couple of the sir either it
+
+doesn't work and no one uses the thing
+
+or whatever or it does work and everyone
+
+congregates around a single server
+
+especially in the Federated architecture
+
+because you don't have canonical State
+
+um so so you don't have a central place
+
+to keep a name space and everything else
+
+and so you have all of these like funky
+
+cross server you know um
+
+activity I don't go with all the details
+
+but it's just not going to work in an
+
+elegant way and you're going to have
+
+this you're essentially going to have a
+
+sharded system and then you're going to
+
+have certain if it works certain servers
+
+get powerful and we're just going to run
+
+the same thing we ran before I believe
+
+so I think you need a canonical Central
+
+core to have a
+
+a system with future parity with modern
+
+corporate networks I'm happy I'll take
+
+this uh questions if you guys want to
+
+dig into this more I've this is
+
+something I've thought a lot about but
+
+um I can go long down along Rabbit Hole
+
+so
+
+Elena you picked the best picture of
+
+Disney World to kind of undermines my we
+
+should have picked the worst one but the
+
+idea here was um
+
+she picked such a good picture the point
+
+was of this is that we cities are better
+
+than theme parks although that looks
+
+like a good theme park
+
+um the uh the uh like the idea sort of
+
+the way I view it is like Pro like it's
+
+a really beautiful thing if you think
+
+about the web and email the fact that
+
+particularly the web like the fact that
+
+you just had this one kind of simple
+
+idea and then you have these I think of
+
+it like a city you know you have a city
+
+you know you think about something like
+
+New York
+
+and a great you know great cities right
+
+they're very organic they're very kind
+
+of Bottoms Up
+
+um in the way they develop and they
+
+really and it's a very important feature
+
+is the the interaction between the
+
+private ownership and public ownership
+
+right so if I own a pizza shop
+
+um you know I depend on the fact that
+
+there's free traffic anyone can walk on
+
+the sidewalk right so I depend on the
+
+the and the in the roads and all the
+
+Public Services right and then I pay
+
+taxes back to the public services and
+
+then in turn like what does the private
+
+sector do for the public sector the
+
+private sector at my view adds creative
+
+entrepreneurship right it's just very
+
+hard for Central bodies to think of like
+
+people really want whatever some type of
+
+yoga or pizza shop or whatever it might
+
+be right so in a well-designed city you
+
+get this really nice diversity between
+
+kind of the public thing the parks the
+
+infrastructure that you know that give
+
+people this sort of feeling of an open
+
+shared City but also enable
+
+entrepreneurship but then you also
+
+harness the power of free market
+
+creativity
+
+right
+
+um and I think the web to me the web is
+
+the is the canonical example of that
+
+embodied in a network right there's a
+
+really kind of you have for-profit
+
+things like Google and everything else
+
+and then you have lots of interesting
+
+non-profits Wikipedia is an amazing
+
+thing you know there's just a whole kind
+
+of wide range of it
+
+um and so you had this really nice kind
+
+of interplay and sort of Bottoms Up
+
+organic thing that you kind of see in a
+
+great city as opposed to a carefully
+
+managed curated uh you know kind of
+
+controlled kind of theme park like thing
+
+um
+
+Okay so
+
+so you know let's jump in then to sort
+
+of
+
+um why
+
+um
+
+would one want to you know see a world
+
+with where blockchain networks
+
+proliferate because that's you know that
+
+the The Hope here right is that is it
+
+all of you and other folks working on
+
+this will be at the Forefront of a new
+
+era where we you know this is the new
+
+network architecture that combines the
+
+best of the Both Worlds of the previous
+
+architectures
+
+um the first is community ownership and
+
+this is similar to the kind of protocol
+
+networks where you you have Community
+
+ownership I mean the sense of like we're
+
+all part of the web and everything else
+
+but but it's not like in a strict kind
+
+of economic sense here we add on this is
+
+the read write own kind of this
+
+ownership idea that you can actually own
+
+a piece of the network which is a very
+
+powerful new primitive
+
+um
+
+and that's what a token is I was talking
+
+earlier about how websites encapsulate
+
+you know information consumption this
+
+nice little bundle to me the token is
+
+kind of the key one of the key concepts
+
+of the of this era where
+
+um it encapsulates ownership right so a
+
+token is can be anything it can be
+
+something in the physical world it can
+
+be something in digital world it can be
+
+code it can be a game it can be
+
+art it can be whatever it might be it
+
+could be fungible it could be something
+
+money-like a lot of the public
+
+impression of tokens is around the kind
+
+of money like characteristics that's a
+
+very kind of I think narrow
+
+um uh view of what tokens can be but to
+
+me tokens like a website their way to
+
+take ownership and encapsulate it but
+
+you can put anything in it it's like a
+
+container you can put anything into it
+
+including you know in a good in a
+
+well-designed blockchain network you can
+
+put
+
+things like the ability to vote the
+
+ability to own part of the network to
+
+have a share of the economics that's
+
+what I think something like ether is or
+
+or like uni or something like that the
+
+next major benefit is lower take rates
+
+this is just empirically we have a slide
+
+on this but the take rates of all of the
+
+blockchain networks are vastly lower
+
+than corporate networks is this because
+
+they're all great people no it's because
+
+of the I mean they are all great people
+
+but it's it's uh most mostly great
+
+people or whatever but the um look but
+
+the but the main thing is it's an
+
+architectural thing right like you can't
+
+if you if you charge too much people
+
+will switch the the architecture is
+
+different where you can the switching
+
+costs are much lower you can Fork a
+
+network there's a whole bunch of reasons
+
+why you can't go and charge 90 if you
+
+said I'm going to build you know a
+
+lending protocol and charge 90 like good
+
+luck no one's going to use it right
+
+um and so you know it's the fact that
+
+it's open source it's the fact that the
+
+switching costs are low
+
+that I like to see the network affect a
+
+cruise to the community and not to a
+
+single company there's not one person
+
+you can sort of like go and do all this
+
+kind of stuff uh the ability to Fork
+
+like all these things keep take rates
+
+lower which means like it's sort of a
+
+zero-sum game like that money is going
+
+to flow somewhere
+
+um and so do you want it flowing to the
+
+network operator or do you want it
+
+flowing to the participants in the
+
+network I think it's better for
+
+everybody to have prisons to network and
+
+by the way this is not just like all you
+
+know altruistic this is also a
+
+competitive Advantage you can go to
+
+creators you can go to musicians you can
+
+go to all these people and say hey would
+
+you like to keep zero percent or 95 this
+
+is one of the very powerful things that
+
+I think is going to propel this movement
+
+to success is the fact that the economic
+
+proposition for all these participants
+
+is a much better economic proposition
+
+um incentive to innovate
+
+whatever you build you own
+
+um if you uh um uh you know the rules
+
+are baked into the code like you we're
+
+not going to capriciously whimsically
+
+change them and
+
+um and kill you off and then funding
+
+parity with corporate networks
+
+um
+
+and so I'll go we have a slide on this
+
+but essentially you know the numbers you
+
+see around sort of blockchain networks
+
+and just the amount of funding is is on
+
+par with those you know the example I
+
+like to use is a there's a bug called
+
+the heart bleed bug a few years ago it
+
+was a bug in SSL you know SSL is the
+
+core encryption Pro uh code uh standard
+
+for uh you know all encryption internet
+
+and it came out in that process with
+
+this this was a really dangerous bug
+
+that could have threatened all
+
+encryption on internet it was like half
+
+a developer was working on SSL like it
+
+was no funding that kind of got fixed a
+
+little bit
+
+um you might say well hey look at all
+
+these open source Linux is well funded
+
+it's complicated like Linux if you look
+
+at it the top contributor Linux is Intel
+
+and Intel has a very strategic reason to
+
+support Linux because their main
+
+competitors Windows you know for you
+
+know for the when you sell a PC if you
+
+buy window they make a lot more money on
+
+Linux PC than Windows PC so there's a
+
+whole kind of you have to go analyze all
+
+the political alliances and things
+
+networks have not had natural corporate
+
+allies and so you just did not have
+
+people funding things like RSI because
+
+all the corporate Alternatives were like
+
+I want to own that I don't want to give
+
+fun that that Network
+
+and so networks need their own native
+
+form of funding to have any chance of
+
+success and that's what blockchain's
+
+providing
+
+okay so let me talk a little about
+
+tokens you know uh you see a lot of uh
+
+mainstream discussion of tokens is like
+
+magic money magic beans Warren Buffett
+
+calls it rat poison uh they don't like
+
+tokens I think a lot of them when you
+
+read the analysis I don't know what
+
+they're they're I think they're talking
+
+about Bitcoin or Dogecoin or something I
+
+don't think they've actually
+
+dug into it uh the you know the tokens
+
+uh I see tokens as uh in the tradition
+
+of video games so video games pioneered
+
+uh virtual economy so games like Eve
+
+online the dominant you know League of
+
+Legends fortnite like the dominant
+
+business model video it's very
+
+interesting Side Story I won't go too
+
+long into it but the video game industry
+
+you know 30 years ago made their money
+
+selling uh games for 50 bucks like today
+
+basically all the modern game companies
+
+give the game away for free and make
+
+money in a virtual economy okay this is
+
+not theoretical uh all these critics who
+
+talk about magic beans this is a big
+
+part of the economy that they just
+
+apparently aren't aware of um the um so
+
+so what you want to do in the right kind
+
+of blockchain you know kind of network
+
+design is you want to design a virtual
+
+economy and you have a very simple way I
+
+I this comes from video games they use
+
+these language faucets and sinks
+
+um this is a metaphor imagine of tokens
+
+flowing like
+
+um like water in a in a house or
+
+something and so you have places that
+
+tokens flow out of and things that they
+
+flow into and those are things and so
+
+for example staking rewards are uh one
+
+form of faucet uh air drops other kinds
+
+of incentives and then sinks are things
+
+like on ethereum you pay an access fee
+
+you pay gas fees right and it takes
+
+those and it burns those and that's a
+
+sink and it's something that eats up
+
+tokens it's like a sink it takes them in
+
+right and so what you want to do when
+
+you're designing a blockchain network is
+
+you want to do a couple things but one
+
+is you want to balance the the network
+
+and I believe we're gonna have a few
+
+sessions that are going to much more
+
+detail here so I'm just giving you the
+
+big picture but
+
+um you want to balance it so you don't
+
+have sort of too much Supply or too much
+
+demand and then the the prices go crazy
+
+in one way or the other so you want to
+
+so you want to get a good balance but
+
+the faucets you want to incentivize good
+
+behaviors this is very very powerful and
+
+this just goes back to like how can
+
+blockchain networks win right how can
+
+they fix the the shortcomings of things
+
+like RSS
+
+incentives are a very important thing
+
+here you can use incentives to fund
+
+developers you can use incentives
+
+remember I described the YouTube hosting
+
+example to fund like hosting come for
+
+the tool stay for the network like
+
+blockchain's version of them are faucets
+
+um and then the sink sinks are very
+
+important for like ideally a sink will
+
+align the sink with a useful application
+
+in the network you want to align it with
+
+the Network's utility okay
+
+um so a good sync for like ethereum has
+
+a great sync which says ethereum is a is
+
+a global shared supercomputer in the
+
+cloud that nobody owns and anyone can
+
+access that's what ethereum is it's like
+
+old mainframe computers and that you you
+
+know it's got limited resources it's a
+
+shared resource
+
+um and so the way it solves that is it
+
+charges you to to use the to use the
+
+computer and it charges you in ether and
+
+that's the sink of ether and what's
+
+great about that sync is it should the
+
+demand for ether should go up as people
+
+build more applications for ethereum and
+
+it becomes a more popular Network right
+
+I think a lot of those fees by the way
+
+as an aside will probably be paid for by
+
+the application developers and hidden
+
+from the users in the same way that I
+
+don't pay my AWS fees when I go to Gmail
+
+I think it'll be similar to that but
+
+like the point is like it's tied to the
+
+utility of the economy right so if
+
+somebody creates a game that's a hit
+
+game built on ethereum that will make
+
+demand for ether go up and so it's a
+
+really beautifully nicely designed
+
+economy right it's not magic beans it's
+
+just all economics this is the same
+
+economics that economists have talked
+
+about for hundreds of years for some
+
+reason when it comes to the internet
+
+they don't want to like do the analysis
+
+but this is just economics supply and
+
+demand if you build a network that's
+
+popular and you tie the token of the
+
+network work to the utility of the
+
+network that creates fundamental
+
+sustainable demand not speculative
+
+demand sustainable demand there is
+
+speculation involved in token prices
+
+today as there is speculation involved
+
+in every Tech Market going back to the
+
+railroad boom of the 1830s the.com move
+
+the 90s of course there's speculation if
+
+the point where speculation that would
+
+not be a sustainable thing I wouldn't be
+
+interested in it like the point is to
+
+create fundamental value to create new
+
+networks that have the benefits of
+
+protocol networks better advantage of of
+
+corporate networks and that create new
+
+virtual economies using tokens and
+
+incentives to gain adoption to align in
+
+behaviors and do all these other kinds
+
+of nice things
+
+I talked about take rates these are the
+
+actual take raise Darren here did this
+
+analysis for us
+
+um so like ethereum is a effective take
+
+rate if you go do the math and the gas
+
+0.06 percent just orders of magnitude
+
+different you know if anything like open
+
+C there's pressure to go down on the
+
+take rates so like I think if anything
+
+we're being conservative like I think
+
+there will be downward pressure is my
+
+guess over time on a lot of these take
+
+rates because of the competitive nature
+
+of these markets because so for example
+
+with openseed like they don't own the
+
+nfts they they don't have lock in they
+
+can't force you to stay on there like
+
+these are much more the networks have to
+
+compete right competition lowers prices
+
+take rates or prices of networks it's
+
+the it's the tax you pay
+
+so you know if anything I would think to
+
+go down you know we'll see but
+
+um and then you know I mentioned this
+
+before with the kind of City analogy
+
+um you know one a very important idea in
+
+blockchains is composability
+
+um composability is the idea that you
+
+can this idea that software can be like
+
+Lego bricks that you can build one
+
+person can build a b software and
+
+somebody else can build on top of it
+
+um this is you know like going back to
+
+blockchain social networks personally
+
+I'm
+
+the thing I'm most excited about and
+
+seeing these proliferate is seeing the
+
+composability seeing I'll have like 20
+
+different people will create different
+
+uh client front ends to forecaster and
+
+these other kinds of you know lens and
+
+Etc and there'll be a big diversity
+
+there'll be all this Innovation people
+
+create different ranking algorithms
+
+people will create you know different
+
+analytics tools people will create also
+
+you know some I'm sure all sorts of
+
+crazy stuff this is the to me this is a
+
+really fun part of software is that
+
+it's all of the creativity unlocks
+
+um and then I'm just finding myself
+
+personally like consistently surprised
+
+with how Innovative and creative people
+
+are and so I think you know creating
+
+these new systems on the blockchain
+
+networks where the network designer
+
+creates the core and then the ecosystem
+
+builds all these things around it is a
+
+very exciting thing and by the way you
+
+know I talk about this with some of my
+
+tech friends who aren't in crypto and
+
+they're like oh it sounds weird I'm like
+
+it's literally if you go back in history
+
+of tech like it's there's a long history
+
+of composability okay so specifically
+
+the web and open source software which
+
+are two of the most important the
+
+internet and open source software they
+
+were all built in this way there was a
+
+famous essay in the night I remember in
+
+the 90s I've been into all this
+
+community like I was into Linux in the
+
+90s and I had Linux machine it was very
+
+Niche then
+
+um and I remember uh it was it was it
+
+was very it's hard to remember it's very
+
+radical idea in the 90s to have
+
+um so open source came from really the
+
+80s Richard stallman MIT it was a
+
+radical political movement it was not a
+
+tech movement right it was the idea that
+
+if you read Richard stallman it was that
+
+no one should own software he was
+
+basically against property rights period
+
+and like digital property rights it was
+
+you know he's you know had this whole
+
+kind of group of people and they had the
+
+movement they created gnu and all the
+
+kind of a lot of really important
+
+software
+
+um
+
+and Linux was you know Linus is kind of
+
+fork of that that ran on the on the x86
+
+architecture
+
+um but this idea that like you'd have a
+
+community of people create an operating
+
+system and then people would use it like
+
+it you know it was hobbyists would use
+
+it but no serious people would use it
+
+right
+
+um there's a very famous essay in the
+
+90s called the cathedral and the bazaar
+
+by uh the software developer named Eric
+
+Raymond and he basically said look
+
+there's two there's sort of the
+
+cathedral it's like the priesthood and
+
+this is Microsoft you know it was the
+
+Google of that era right the big
+
+dominant cup or apple or whatever
+
+um and that the cathedral Elite had sort
+
+of you know it was just centralized
+
+priesthood
+
+um the product managers would decide on
+
+the changes the operating system and it
+
+would all kind of flow downward
+
+and the bazaar was this babbling bizarre
+
+of like chaos of people building open
+
+source software
+
+um and
+
+um you know I and so you know that was
+
+and by the way fast forward today I
+
+don't know what the exact stat is but
+
+certainly uh the vast majority of
+
+operating systems in the world are Linux
+
+your Android phone is Linux you know I'd
+
+say like something like half the
+
+software on your Apple phone is open
+
+source all the data centers all the iot
+
+devices are all Linux
+
+um so it like won completely and it just
+
+turned out that having a group of people
+
+packing away on the internet which is a
+
+much better way to build software than
+
+having it done within the cathedral like
+
+the bazaar is a better way the web is
+
+another example Wikipedia is another
+
+example I have a blog post about this it
+
+was funny like people I the revisionism
+
+drives me crazy because I was there
+
+that's why I wrote a blog post I went
+
+and cited all these people it was so
+
+controversial Wikipedia it was like it's
+
+gonna destroy children's Minds kids and
+
+it was literally banned from a lot of
+
+schools it was this crazy thing and it
+
+was like how could you allow you know
+
+I'll if you want if you Google it you'll
+
+see I've wrote A Blog I quoted all of
+
+them because of the revisionism drives
+
+me crazy
+
+um but it was a very very controversial
+
+thing
+
+again like it turns out just like having
+
+enough people kind of collaborate you
+
+can create amazing things right and so
+
+um I kind of think of it I like to say
+
+composability software as compounding
+
+interest as a finance
+
+um there's you know this old phrase
+
+compounding interest is the eighth
+
+wonder of the world or something it's
+
+this amazing thing when you sort of
+
+layer on whatever it is six percent a
+
+year and you compound it
+
+um and I think it's the same thing in
+
+software so the beautiful thing with
+
+software right is you build you write a
+
+piece of code you put it on GitHub and
+
+you write a math function you know
+
+whatever some python math function and
+
+that's it it's you know if it's assuming
+
+it's good code like it's done no one
+
+ever has to write that code again right
+
+and so you have this incredible thing
+
+where this Global Knowledge repository
+
+is sort of building up and you're just
+
+getting kind of more and more powerful
+
+and blockchains harnesses power like
+
+we've just lost it with corporate
+
+networks for me personally it's probably
+
+the most depressing part of the
+
+corporate Network architecture it's just
+
+like all of the innovation has been
+
+siphoned into these priesthoods product
+
+managers PowerPoints whatever they do
+
+and I just think all of the kind of
+
+heart and soul of software has been
+
+sucked dry by them I think that but I
+
+think that there's like it's a pendulum
+
+I it's been it's been happening for 70
+
+years is this pendulum it swings back
+
+and forth and it's going to swing back
+
+and I think once people really start to
+
+see how powerful composability is once
+
+you have a choice hey I could have a
+
+social network where I can choose all
+
+this stuff I can I think it's going to
+
+be a big kind of light bulb moment for a
+
+lot you know you are all on the frontier
+
+but I think there will be like a whole
+
+following wave of technologists who when
+
+they see that and realize the power
+
+reminded of the power of it right it's
+
+not a new idea it's not my idea this is
+
+a very old powerful force in technology
+
+it's just been kind of dormant as we
+
+live in this kind of dark era of
+
+corporate Network dominance
+
+um my view but um
+
+so um funding parity this is just to
+
+make the point like you have you know
+
+nounsdale Lido like these are orders of
+
+magnitude more than RSS ever had
+
+this is money that can be used directly
+
+to fund development so this is when I
+
+went back to saying blockchain networks
+
+have societal benefits of protocol
+
+networks with the competitive advantages
+
+of corporate networks the funding part's
+
+a very important part
+
+um okay I'll stop on the blockchain
+
+stuff I'm going to give a little survey
+
+of like where we are now and then I'm
+
+going to take questions
+
+um
+
+okay so this is I think this is a Lee
+
+and our team did this slide which is
+
+kind of just a you know so so what are
+
+you going to actually build like talk
+
+about all this stuff um
+
+the uh you know the very high level just
+
+always in software the way I think about
+
+it is you have applications and
+
+infrastructure right so infrastructure
+
+can be blockchains it could be wallets
+
+it could be et cetera basically the
+
+simple distinction is infrastructure
+
+your customers or developers
+
+applications your customers or end users
+
+we kind of we divide our team between
+
+that this is how it plays out and every
+
+Computing cycle in Mobile it played out
+
+this way on the web it played out this
+
+way and PCs it played out this way you
+
+know you had Apple
+
+creating the first Steve Jobs and
+
+Wozniak creating the first PC you had
+
+other people building the spreadsheet
+
+and the word processor you know one of
+
+the funny things I've observed in the
+
+history of this is that often the people
+
+even people as genius as Steve Jobs who
+
+of course is like the greatest innovator
+
+you know maybe of the century or
+
+whatever you know incredible but even
+
+they can't they don't predict all the
+
+things people will do with their devices
+
+um he was he was Steve Jobs against
+
+having the App Store you know he had to
+
+get like convinced of it um and before
+
+that you know the spreadsheet and the
+
+word processor and desktop publishing
+
+this all came from third parties random
+
+people
+
+um and so you know so it's very
+
+important to have this kind of interplay
+
+because then then what happens is the
+
+applications make it more popular right
+
+the spreadsheet made the PC more popular
+
+that means you sold more PCS you sold
+
+more chips you sold more hard drives
+
+that then led to you know the kind of
+
+Moore's Law phenomenon where you had
+
+everything got better and cheaper you
+
+had investment in making it better you
+
+know you think about your phone today
+
+that you hold right it's the phone
+
+itself is significantly better than the
+
+first iPhone in 2008
+
+um battery screen everything but the
+
+applications are also much better right
+
+and it's both and the applications fed
+
+the phone I remember a lot of friends of
+
+mine like they're like I don't know if I
+
+want to know touch screen this and that
+
+like what finally tipped them right is
+
+the networks like you had to be on there
+
+because it was WhatsApp and Instagram
+
+and you just couldn't get that stuff on
+
+the BlackBerry and other kinds of Prior
+
+phones and so there's an interplay right
+
+but then the apps being popular that
+
+were created by Third parties that gave
+
+Apple more money to invest to go make
+
+the phones better and so you need both
+
+so we think of it as sort of you always
+
+need both
+
+um here we have just kind of you know
+
+loose categories for
+
+um you know for different categories of
+
+uh applications and infrastructure you
+
+know ideally there's like we're not at
+
+all sort of doctrinaire about the
+
+dogmatic about it like we hope people
+
+will come up with stuff that doesn't fit
+
+into a category and
+
+um but this is just sort of loosely how
+
+we kind of think about the world
+
+um
+
+and then this comes from our team Eddie
+
+and Darren
+
+um you know one thing we were a couple
+
+years ago we were kind of thinking about
+
+is uh what
+
+it feels so chaotic the crypto Winters
+
+the Summers but is there like an
+
+underlying logic to it and
+
+our theory was
+
+um that there's sort of this thing that
+
+happens where you have prices go up and
+
+just sort of more excitement around the
+
+space like you did in these various kind
+
+of periods and that leads more people to
+
+say hey I want to go read the ethereum
+
+white paper I'm going to go like learn
+
+about it and then they actually kind of
+
+get hooked on the real thing on the
+
+stuff I'm talking about like the
+
+technology and the and that kind of
+
+stuff and some portion of them do right
+
+some portion of speculators but some
+
+portion get really hooked by the the
+
+real thing and get involved and join
+
+maybe some of you I don't know when all
+
+of you joined but like you know and then
+
+and then they they join they start a
+
+company they contribute to open source
+
+code and then you know a couple of years
+
+later typically it takes for the sort of
+
+seeds to fully kind of
+
+Bloom and then you see kind of a new
+
+wave of excitement so that was our
+
+Theory and we said let's go see if
+
+that's true and so we did this data
+
+analysis project
+
+and you know we did it was very
+
+interesting anyway so we went and did
+
+this and we think we think that it's
+
+it's hard to measure all the causality
+
+you know with data like this but we
+
+think there's a pretty clear kind of
+
+causal link and what you see is a sort
+
+of steady growth now it is chaotic
+
+um you know it's not steady growth like
+
+you're used to if you're making
+
+accounting software where like every
+
+quarter you're growing consistently or
+
+something like this so crypto is a very
+
+kind of chaotic thing it reminds me a
+
+little bit of AI I had an AI company I
+
+started in 2008 I sold to eBay in 2011.
+
+AI went through if you go read about it
+
+there's they actually use the word AI
+
+winter in AI summer it's like a whole
+
+history of it it was a long long history
+
+I mean it looks like it's finally
+
+eternal Summer now I think that AI
+
+um like it's it's not going to be
+
+another winter but but for 70 Alan
+
+turing's paper 1950 73 years there were
+
+Summers there were winter so the bigger
+
+technologies have more I think more
+
+chaotic
+
+kind of Cycles like this because because
+
+it's some sentiment and funding and just
+
+there's all these other kind of factors
+
+um that play into it as opposed to kind
+
+of the more incremental software it's
+
+just you know if you're familiar with
+
+the s-curve it's like the technology
+
+adoption curve it's kind of where are
+
+you playing on the s-curve are you the
+
+top of the s-curve you know like the
+
+internet like SAS software is more it's
+
+very Innovative about to say anything
+
+negative but it's at the top of the S
+
+curve it's more about adding new
+
+features taking this and applying it to
+
+New Vertical you know we're all at the
+
+bottom of the s-curve
+
+you know lastly I'm a big fan of History
+
+I've I think I've read every book that's
+
+out there on Computing history
+
+technology history I try to
+
+um and I just love the story I was once
+
+an entrepreneur and I just love those
+
+stories of like people in the room and
+
+it's just an incredible thing to see
+
+like
+
+you know like just
+
+three people sitting around having a
+
+beer and talking about an idea and then
+
+and I've seen this now like and I was an
+
+early investor in a lot of the things
+
+that became really big
+
+um and it's just such an amazingly kind
+
+of high impact thing you can do in the
+
+world to like create software
+
+um and be part of these early movements
+
+um and it always you know
+
+it's interesting because it it's very
+
+easy when you read the history to think
+
+well it must have been obvious to do
+
+like a PC in the 80s and things like
+
+this
+
+um it it sort of History Rhymes and
+
+doesn't repeat like there's always a
+
+different set like crypto has its all of
+
+his critics and negative things and
+
+everything else but
+
+um
+
+PCS had their own you know at the time
+
+it was like why like the idea that like
+
+Bill Gates is a big revolutionary idea
+
+was there'll be a piece a computer in
+
+every home that was literally The Motto
+
+and it was like whoa you know
+
+um you know everyone will own part of a
+
+network whoa like these kinds of things
+
+like there's always so anyway so you
+
+kind of think back and like you know
+
+from my favorite stories
+
+uh you know I actually I wrote a few
+
+like I think actually the whole history
+
+of computing in the 1930s is super
+
+interesting with like logicians and
+
+everything else
+
+um the the story of Fairchild
+
+semiconductor Robert Noyes and folks
+
+like that who then really created
+
+Silicon Valley and Intel
+
+um I encourage you to read about that
+
+you know that obviously jobs in mosiak
+
+and what I love what they love about the
+
+PC story is it was a Homebrew Computer
+
+Club which was literally like a hippie
+
+kind of thing like it wasn't you know
+
+like it was literally like this kind of
+
+it was you know kind of like a hackathon
+
+type thing
+
+um where they were just like let's go
+
+and build PCS for the home why would you
+
+want them they didn't have applications
+
+they didn't know why you didn't use them
+
+but that would be cool the original
+
+Apple was today's dollar is five
+
+thousand dollars and you could do like
+
+very little on it you know so like it
+
+was not obvious that that was going to
+
+be like the big thing anyway so
+
+I think about that a lot and I think
+
+about
+
+you know what's exciting to me why I'm
+
+here uh why I think you should be
+
+excited is it's you know I think these
+
+are very special kind of moments when
+
+you have new Computing movements come
+
+they're very high leverage moments I
+
+think this is the most important
+
+Computing movement I think there's other
+
+important ones aivr et cetera and
+
+there'll be a lot of different things
+
+but but to me this because of the things
+
+I discussed earlier because this one
+
+really affects the kind of the future of
+
+the internet like we have to decide do
+
+we want an internet that's like
+
+Disneyland or something like five five
+
+companies own it uh or they want an
+
+internet that's open and decentralized
+
+and Innovative
+
+um I don't see any other plot maybe you
+
+could regulate it I don't see a good
+
+regulatory scheme for doing that to
+
+keeping it open maybe maybe protocol
+
+networks will make a comeback it's been
+
+30 years I don't you know like we'll see
+
+to me this is by far the most credible
+
+kind of way to you know return the
+
+internet to its roots and uh and and
+
+like I think it's the reason you're here
+
+I also think it's a great
+
+entrepreneurial opportunity and you can
+
+really build big important stuff so
+
+that's it
+
+[Music]
+
+I think we have time for questions yeah
+
+I Chris uh thank you for the chat or uh
+
+it seems like there's a fundamental um
+
+conflict between startups trying to get
+
+traction uh and having having it
+
+decentralized uh could you tell us a
+
+little bit more about like um how to
+
+negotiate that pathway of having that
+
+centralized driving force to build
+
+awareness and get users versus having a
+
+decentralized platform
+
+I think it's so I would I would just say
+
+it's a very different go the way I would
+
+describe it is a very different go to
+
+market motion so
+
+on the one hand so like it's basically
+
+on the one it's the top down versus
+
+bottom up okay and I think I think it's
+
+harder if you look at it through the
+
+lens of the top down so what people are
+
+used to for the last 15 years with
+
+startups is you go raise money and you
+
+hire an army okay with what we're doing
+
+in crypto
+
+um it's a different motion which is
+
+You're Gonna Go build the town hall but
+
+then you're gonna ideally inspire a
+
+community right so it's a very different
+
+way to think about that
+
+um you know I I think about look I mean
+
+but they're very powerful tools there's
+
+tokens there's ownership there's
+
+composability
+
+um so I think it was a very different
+
+kind of go to market motion so I'm sorry
+
+that's a that's the business lingo we
+
+use for like how to there's two things
+
+you do at a startup you build a product
+
+and you make it popular
+
+making it popular is go to market okay
+
+um go to market motion is the method by
+
+which you make it popular right
+
+um and so
+
+um
+
+uh you know I look there's there is
+
+actually a long try and this is one of
+
+the things we try to do when we work
+
+with companies is like we we've worked a
+
+lot of companies that have done a what I
+
+would call a Bottoms Up developer go to
+
+market
+
+[Music]
+
+um
+
+and it's a different set of things you
+
+do you focus on obviously great product
+
+great code this is a very Discerning you
+
+know smart audience uh you know
+
+hackathons evangelizing uh documentation
+
+you know funding grants
+
+um
+
+token incentives potentially like just a
+
+bunch of different things like this so
+
+it's a different set of tools but I
+
+think just as important I think like the
+
+two things again the two things you do
+
+at a startup are those two things and
+
+startups should really invest in both
+
+the number one mistake we see in crypto
+
+is sort of this build that they will
+
+come mentality
+
+um that you know you can just go and it
+
+happens occasionally I think it probably
+
+kind of happened with Bitcoin maybe to
+
+some extent with ethereum it generally
+
+doesn't happen
+
+um and and so you need to go and
+
+evangelize and explain and people just
+
+misunderstand what you're doing and all
+
+these other kinds of things
+
+so I think it's sort of I think it was
+
+like strengths there's like it's
+
+different I guess I would say not
+
+necessarily weaker
+
+thank you and one other thing I would
+
+say is like
+
+look it sort of pick your poison like in
+
+so you know our firm does non-crypto and
+
+I still kind of I pay so I'm mostly
+
+crypto but I do pay attention to the
+
+rest of the tech world and you know if
+
+you look at a lot of companies that went
+
+public for example that were started in
+
+the last 15 years non-crypto regular
+
+kind of companies
+
+um the Big Challenge a lot of them is
+
+customer acquisition costs so you know
+
+e-commerce company is an example DTC
+
+Brands like they spend all their money
+
+on Facebook it's a take rates I was
+
+talking about before right that those
+
+companies are very good at extracting
+
+all the money out of the network
+
+um so so you know so they so they have
+
+advanced that's their big kind of
+
+Achilles seal and
+
+whereas like look Bitcoin ethereum like
+
+I think most crypto ads are banned on
+
+Facebook and everything they're all Word
+
+of Mouth everything in crypto is word of
+
+mouth and it's you know think about all
+
+the blog posts and think pieces and and
+
+like you have things like Dogecoin I
+
+think Dogecoin is very interesting
+
+because for like a long time Dogecoin I
+
+was like this is you know it's obviously
+
+a dumb it's a silly cryptocurrency meme
+
+coin it's silly and it annoyed me
+
+because it's like you know and then at
+
+one point I was like you know maybe I
+
+should flip it around instead of
+
+annoying me take a lesson and now I kind
+
+of think a Dogecoin is like this kind of
+
+clinical science experiment where if you
+
+took the dumbest possible
+
+application you know coined is it like
+
+it's not not the technical design but
+
+just like there's no point of it there's
+
+no use cases
+
+um but
+
+it's a clinical experiment because
+
+you're saying you basically have all
+
+these people on the internet in my view
+
+who feel left out of ownership of
+
+networks and
+
+you so the thing that Dogecoin does do
+
+for them is it gives them a feeling of
+
+ownership if you go read I spend time
+
+reading that's when I set a switch I'm
+
+like I'm gonna go like learn about this
+
+community and go read their stuff and it
+
+was a sense of like if you go read like
+
+The 2 million Reddit uh subscribers in
+
+the Dogecoin subreddit
+
+um it's like there's people that like
+
+this is finally an internet service that
+
+I own a piece of right that was a very
+
+powerful thing
+
+um now I'm not bullish on Dogecoin and
+
+meme coins generally
+
+um but what if you take that Evangelical
+
+inspirational power and combine it with
+
+a great product
+
+that's a very powerful force but it's a
+
+very different way to go to market than
+
+like what you people you know they have
+
+if you go hire a marketing person who
+
+ran a web 2 company they'll have a
+
+different Playbook right
+
+hey Chris thank you thank you trying to
+
+get a better understanding of the
+
+regulatory environment and how to
+
+contextualize that could you maybe touch
+
+a little bit on some of the similarities
+
+and differences across web one web two
+
+and web 3 with the regulatory
+
+environment yeah and then what are the
+
+the key things as entrepreneurs should
+
+we be thinking about yeah it's a great
+
+question I mean
+
+I'd say it's a couple of just macro
+
+points
+
+um first of all the regulation was very
+
+important in the first year of the web
+
+there were some very for there was the
+
+uh I forget what it's called like the
+
+internet Commerce Act of 94 commerce was
+
+illegal until that act
+
+um on the web that made it legal that
+
+was very important that was very
+
+forward-thinking
+
+um there was generally a view of what we
+
+describe as regulate the applications
+
+not the protocols and so the idea was
+
+you don't regulate SMTP and HTTP you
+
+regulate the applications
+
+that you know if your Gmail you have to
+
+follow if you have a website you know
+
+you have to follow the law right and
+
+that was very smart because the
+
+protocols are meant to be global and
+
+they're meant to create a global
+
+interoperation Center if you start
+
+regulating the protocols it's going to
+
+kill the protocol because every
+
+jurisdiction has different rules right
+
+so you need these sort of it was a very
+
+smart approach because you had this
+
+um the protocols could do what they're
+
+good at which is sort of the they're the
+
+roads that connect everybody in a common
+
+standard and then if you run a website
+
+you got to follow whatever EU us
+
+whatever pick your you know jurisdiction
+
+um and that was very forward thinking
+
+there was a huge debate in the 90s over
+
+cryptography if you go Google like
+
+Clipper chip and all these you'll see
+
+there was this huge battle and it was a
+
+very uh credible story of um uh sorry a
+
+very formidable side wanted to ban
+
+cryptography they actually I was talking
+
+about a dinner with some of my
+
+colleagues last night they were we used
+
+to have T-shirts that actually that were
+
+illegal T-shirts because they printed
+
+some of the cryptographic code
+
+um and it was like ban the shirt or
+
+whatever you know because
+
+um because I mean they were trying to
+
+ban math and eventually they figured out
+
+like You Can't Ban math like once the
+
+formula is out there like you're
+
+literally trying to ban ideas but that
+
+was a serious debate in fact Ben uh
+
+Horowitz and Mark Andreessen my partners
+
+they so people forget this but that's
+
+their company Netscape
+
+um actually invented SSL invented
+
+JavaScript like cookies this all came
+
+from Netscape
+
+um and uh SSL in particular was
+
+extremely controversial because think
+
+about it like I think I forgot what I
+
+think it was like 94 or something
+
+um at the time there's no internet
+
+Commerce right and so like what are you
+
+gonna do they were literally like
+
+getting hauled in front of Congress
+
+um or some government bodies or so I
+
+forget exactly what but um uh and they
+
+ask you okay so well why do you have
+
+encryption in your browser
+
+and they say well someday people are
+
+going to buy things on the internet okay
+
+what are they doing with it today it's
+
+probably just criminals and terrorists
+
+right and you know what maybe the
+
+critics in 1994 maybe that like they're
+
+they're just there weren't that many
+
+positive use cases right you had to
+
+believe in this future
+
+and like thankfully that didn't get bad
+
+but it came very close to it um and in
+
+fact Netscape uh the 128-bit version of
+
+Netscape I think until late 90s was uh
+
+classified as Munitions by the US
+
+government same classification as cruise
+
+missiles
+
+um you could not you could not download
+
+it outside the US I remember when I was
+
+young downloading soft you're always
+
+getting these things like are you in the
+
+US you can't download this it's like so
+
+you know I think thankfully dmca there's
+
+a bunch of very I think good regulation
+
+in the end
+
+um
+
+my colleague Colin likes to say the U.S
+
+does it tries every form of bad
+
+regulation before they figure it out you
+
+know like and so like there were all
+
+these sort of different things but I
+
+think it actually was done very very
+
+well and look that led to the internet a
+
+lot of internet activity being in the
+
+U.S this is it was a great it was very
+
+forward-thinking I think a lot of people
+
+sometimes people in Industry
+
+uh I think don't give regular smart
+
+Regulators enough credit because I think
+
+the good ones see this and find a good
+
+Balancing Act and look and you you want
+
+regulation like we we spend most of our
+
+times believe it or not
+
+is not always popular in the crypto
+
+Community but like we we've been also
+
+trying to get more guidance and
+
+regulation because what happens when you
+
+don't have it is you have an ins you
+
+have a an incentive to act badly right
+
+this is why you have these ftxs and
+
+things the incentive is to go offshore
+
+to offer 100x derivatives to do all
+
+these things because you get because
+
+they spend all their time going after
+
+the good actors like the us-based
+
+companies that are following the rules
+
+and they ignore those actors and so you
+
+you create these very perverse
+
+incentives right
+
+um so like it's a very active space like
+
+we have spent a lot of time on it we're
+
+trying to make the case that there's the
+
+you know that
+
+um that there's a balance between
+
+Innovation and you know we obviously
+
+want all these it's bad for everybody
+
+it's bad for the world it's bad for the
+
+industry to have the ftxs and you know
+
+consumers hurt and all these other
+
+things we think that we've published
+
+very detailed
+
+proposals here we think there are ways
+
+to do that and to sort of navigate
+
+across like it's very hard like there's
+
+not only is it the US there's other
+
+countries within the US there's probably
+
+five major regulatory agencies that are
+
+involved so it's the actual specifics
+
+would be like talk to Legal teams
+
+um I'm not going to give legal advice
+
+but that's kind of the The Meta policy
+
+View
+
+thank you yeah well thank you um the
+
+second question is you mentioned about
+
+how gaming
+
+um creates a virtual economy and I
+
+recently have also learned a podcast
+
+related to like how copyright approaches
+
+the freemium games and also like right
+
+now mobile games like half of the market
+
+uh share for the whole like gaming
+
+economy I'm curious on your cell sound
+
+the point of view of what's currently
+
+what's a website gaming are at and how
+
+it will impact the whole like web3
+
+economy so where is Webster gaming at
+
+and how will impact the economy yeah
+
+good question so
+
+I think there's okay this is I could
+
+this is a big topic I think so I think
+
+they're sort of
+
+so I like to use this so I guess for
+
+every one of these Technologies there's
+
+kind of a light version and a heavy duty
+
+version and so the light version of web3
+
+gaming which we've already seen some of
+
+and we're going to see more we funded
+
+probably 15 web3 game companies most of
+
+which haven't launched their products
+
+yet so like you're going to see like in
+
+the next 12 months some really high
+
+quality these are teams at a very top
+
+game companies launch web 3 games so to
+
+your question look games just take a
+
+long time they can take I mean Grand
+
+Theft Auto how long has it been it's
+
+like the most anticipated game like what
+
+12 years or something I mean they just
+
+it's really not not that everything is
+
+that elaborate but games take a long
+
+time so it's going to take some time but
+
+there's to me there's sort of the
+
+lightweight versions of web3 game which
+
+is like a game that's like a normal game
+
+but you have nfts you have virtual Goods
+
+you can take take from one game to
+
+another create secondary markets you
+
+know kind of like build an economy
+
+around a more robust economy around the
+
+goods but then to me the really more
+
+sort of ambitious idea is
+
+kind of like the fully on chain games
+
+where everything is the whole back end
+
+is a shared composable service
+
+and like and then this gets into the
+
+topic of like metaverse you know which
+
+is kind of a buzzword but I think I
+
+think a real thing which is we're gonna
+
+just sort of you look at the extrapolate
+
+from the trends and like gaming is going
+
+to continue to be more and more
+
+important people's lives virtual reality
+
+is going to eventually happen people are
+
+going to spend more time on the internet
+
+more jobs on the internet more virtual
+
+worlds like all this sort of Trends
+
+we've seen over the last 10 years
+
+they'll continue and that's sort of the
+
+metaverse is like people just spending a
+
+ton of time meeting their spouses doing
+
+their jobs like it's this virtual world
+
+and to me there's a very important
+
+question which is is this metaverse you
+
+know kind of uh Ready Player one style
+
+owned by what was the company uh
+
+but I don't know whatever evil Corp
+
+um if is it owned by evil Corp or is it
+
+uh you know is it a sort of shared
+
+decentralized network right like to me
+
+that's a very important question which
+
+actually this is probably the right time
+
+if you just look at history like the
+
+right time to really think about RSS and
+
+fix it would have been like 2006 or
+
+something because then you had the
+
+iPhone that was what happens is you have
+
+these catalysts right and the Catalyst
+
+kind of entrench
+
+like you'll have the the horses are kind
+
+of racing RSS and Facebook and Facebook
+
+was a little bit ahead and then the
+
+iPhone came out and boom it just sort of
+
+like and this is all backed up if you
+
+look at the stats like so you have these
+
+catalysts so maybe there's a catalyst
+
+next to you that maybe AI maybe VR who
+
+knows some something may happen to
+
+catalyze and make this whole metaverse
+
+thing that sounds kind of futuristic
+
+actually be a real thing in five years
+
+and I think that like right now it's
+
+time to think about the architecture for
+
+that and I think games are kind of a
+
+wedge into that like you know like the
+
+stuff that Xerox Park stuff for those
+
+are into this stuff like there's a bunch
+
+of you know the um Dark Forest like
+
+there's a bunch of sort of really
+
+interesting ideas there the idea that
+
+you have a shared back-end like what's
+
+cool about like something like a dark
+
+Forest right is the back end is fully on
+
+chain and then somebody else can create
+
+like a different front end they can Fork
+
+it they can add stuff onto it so it sort
+
+of takes what's a very powerful force in
+
+already in gaming like modding and
+
+things
+
+um but it puts it on steroids so I think
+
+it's a very exciting area look also
+
+games just historically have always been
+
+a very good kind of beachhead
+
+uh category for new Computing platforms
+
+early mobile a lot of it was driven it's
+
+a way to just get a lot of people
+
+onboarded used to it using wallets
+
+I think the most likely thing in the
+
+next couple of years that will get us
+
+200 million active crypto users is
+
+probably a game
+
+um I don't I
+
+so is that someone building a game but
+
+but like but that's not like to me
+
+that's part of it right like the point
+
+of the eye like I'm not I like games but
+
+the point of that film is not games
+
+right the point the games help drive it
+
+and we're kind of the wedge
+
+thank you yeah
+
+hi Chris thanks for the talk Brandon um
+
+I completely agree with your uh
+
+characterization of Federated networks
+
+versus kind of truly decentralized
+
+social networks I'm curious about your
+
+thoughts of the fundamental value that
+
+grounds the meaning of ownership in a
+
+decentralized social network because it
+
+sounds like to compete with traditional
+
+corporate networks you need to offer
+
+feature parity and also some sense of
+
+ownership that kind of offsets the
+
+network effects that the corporate
+
+networks already have
+
+but what does that ownership mean
+
+because the corporate networks have done
+
+a pretty good job of creating the
+
+economic value in the existing Networks
+
+well I think specifically with
+
+blockchain social networks so we're
+
+talking about so like so
+
+so you know one way to think so any
+
+network there's generally like most
+
+networks the networks we're talking
+
+about are two-sided networks meaning
+
+there's two set there's users and what I
+
+would call like creators and developers
+
+right the sort of the sellers and the
+
+buyers if you will they're not buyers
+
+but like the people that consume the you
+
+know people that create the videos on
+
+YouTube and people that watch the videos
+
+right
+
+um and whenever you have a two-sided
+
+market like the first go to market
+
+question will be which side do you go
+
+after all right because like it so like
+
+and this is true of UB like uber Uber
+
+decided the drivers were the hard part
+
+you know like there's always a hard side
+
+and an easier side
+
+um I would argue with crypto social
+
+networks you want to go after the sell
+
+side you want to go after you want to go
+
+to the musician who's currently getting
+
+you know whatever pennies for thousands
+
+of streams and this is like essentially
+
+there's a whole economy of creators who
+
+are all about working around the 100
+
+take rates they don't use this word
+
+language because it's been so
+
+successfully obfuscated from them that
+
+they pay this because they just think of
+
+it's just like that's how social
+
+networks work it doesn't have to be that
+
+way it's like an accident history
+
+um but you know so they what do they do
+
+they go and they sell merch they you
+
+know there's a huge industry around that
+
+there's they go and they you know they
+
+have a Shopify thing they try to kind of
+
+get people over to it they do offline
+
+stuff they do pay this with patreon and
+
+substack exists they're essentially
+
+substack is the way to get around
+
+Twitter take rates patreon's a waiting
+
+on YouTube right you get them over to
+
+your patreon you get direct money and
+
+you still pay but it's five percent
+
+because it's on the web and webbed is
+
+real competition and like
+
+and so
+
+um
+
+so I think with social networks like I
+
+think it'll be it's it's nuanced because
+
+you got to get both sides and you can't
+
+like it's not like I'm just saying you
+
+go magically get these musicians and go
+
+to market you gotta cultivate both sides
+
+but I think the really really strong
+
+value proposition is the economic side
+
+to the creators who just like it's
+
+dramatically better economics and that's
+
+that will play out at some point because
+
+if you're just if you're offered a
+
+system where you can have the same thing
+
+and get 100 or get or not 100 but 90 95
+
+whatever it is or you know zero percent
+
+like is to me no question right I agree
+
+thank you yeah thanks how do you think
+
+about defensibility in web 3 for
+
+protocols like you know when uniswap
+
+gets forked or something like that
+
+yeah I mean
+
+I mean to me this all kind of boils down
+
+to all sorts of the take rates right
+
+like like
+
+uniswap I think has remained
+
+you know I think most people would agree
+
+has remain quite successful despite the
+
+forks and things like this
+
+um if they charge 90 take rate they
+
+would not have been successful like they
+
+you know so like you know so part of it
+
+is like the defensibilities are simply
+
+much lower
+
+and that that plays in that's why the
+
+take rates are lower that's why a lot of
+
+the benefits flow to Consumers and not
+
+to the companies
+
+um so that's just a fact of this space
+
+and I think one of the reasons is better
+
+for the world
+
+um
+
+but it you know defensibility in the end
+
+comes down to pricing power and pricing
+
+power and networks is take rates
+
+um so I think as a result you'll expect
+
+much lower take rates
+
+um but but I think I think the way I
+
+view it is you know there's an old kind
+
+of venture capital meme zero uh was a
+
+zero billion dollar market or something
+
+like there was this old
+
+for a long time people who who are
+
+internet investors would talk about this
+
+like the goal is to kind of build things
+
+like think of Craigslist where
+
+Craigslist is actually it's it's just
+
+owned by I think you know Craig and his
+
+friends or whatever
+
+um but it's it's this wildly profitable
+
+100 million dollar plus profit a year
+
+business right
+
+what they did is they took this giant
+
+market the classified Market which was
+
+previously a much larger by Revenue
+
+industry than it is today and they
+
+basically deflated it it's deflationary
+
+a lot of technology is deflationary
+
+right you shrink the market
+
+um but you know but they were also you
+
+know
+
+um
+
+they just run a website they don't have
+
+to run all the printing machines and
+
+everything else and so I think with a
+
+lot of these decentralized networks
+
+it'll probably be a similar thing which
+
+is like
+
+you also don't fun you know you
+
+you have much lower take rates but you
+
+also don't have to have a sushi chef and
+
+50 000 employees and like all the you
+
+know it's a decentralized network right
+
+like it's just like you know real estate
+
+like so the costs are much lower too so
+
+it'll be kind of that Craigslist effect
+
+I think
+
+does that make sense yeah awesome thank
+
+you so much
+
+after doing this I'm Lucas from Thurgood
+
+and my question is uh which critiques of
+
+web3 and its assumptions do you think
+
+are the most valid
+
+well I think there's like a I mean like
+
+I mean saying it's early like or that it
+
+hasn't gone mainstream yet rather it's
+
+not early but it hasn't like you know
+
+it's not at a billion you know the
+
+internet's five billion users and
+
+you know probably like the stuff that we
+
+like to use is you know 10 like metamask
+
+is like 10 million or something so a
+
+fraction of the size so that's
+
+legitimate I mean to me my response
+
+would be
+
+okay like that's what we do in venture
+
+capital and like a lot of the markets
+
+are early and that's why there's
+
+opportunity to be an entrepreneur like
+
+I'd see that as I flip that around and
+
+see that as an opportunity
+
+um what else uh I think a lot of the
+
+other critiques I find it just are
+
+literally straw man arguments like
+
+they're just talking about like the
+
+the rat poison magic beans like tokens
+
+are all made up like okay it's just it's
+
+virtual economies it's very easy I can
+
+explain it it's not any kind of fancy
+
+economics
+
+I think a lot of people don't even you
+
+know they haven't done the frankly done
+
+the work to go understand the history of
+
+the internet how networks work Network
+
+architecture I think until you've just
+
+had that discussion and understood those
+
+things like it's very hard to critique
+
+blockchain networks if you don't
+
+understand
+
+the history of the internet and the
+
+other network architectures and how
+
+Network architectures influence Network
+
+economics it's I find most of the
+
+conversations are just very hard to have
+
+because they haven't had done that prior
+
+work
+
+but I look I don't know what do you
+
+think are the good critiques I mean uh
+
+going back to saying it's early you said
+
+earlier that we're at the beginning of
+
+the edge curve so how do we figure out
+
+where we're like What would be the web
+
+to analog of like where we are
+
+yeah I was
+
+Eddie and I here we're talking about
+
+this at dinner last night Eddie Lazarus
+
+back there uh you know who I'm sure
+
+you'll meet but um
+
+like I think I think kind of what you're
+
+saying is like what's the inflection
+
+point yeah and like Eddie Eddie's view
+
+is just all going to come down to and he
+
+may be right like block space
+
+um cost like when you have l2s 4844 all
+
+this other stuff where you have you know
+
+sub Penny anyone Kevin Kelly has this
+
+great blog post he's a founder of wired
+
+and kind of this blogger uh thinker
+
+um so you don't have Innovation until
+
+you have waste so like until you can
+
+take a thousand photos and throw them
+
+away you don't have Instagram until you
+
+have do a thousand searches and throw
+
+them away and like we don't have waste
+
+yet like you need to have like a thou
+
+like web3 gaming the earlier question it
+
+shouldn't be just 15 companies funded by
+
+a16z it should be 10 lines of code a kid
+
+in wherever India Indiana you name it
+
+create some cool thing it's so easy it's
+
+so cheap it's it's not like that today
+
+you've got to be like a pretty deep
+
+smart contract engineer you got to learn
+
+all this stuff you got to pay money like
+
+you know I it's funny like I I one
+
+argument is just it's just all about
+
+like AI you know AI you go back and read
+
+stuff I I used to talk them right about
+
+Ai and like you have this long history
+
+of people debating when will aihap and
+
+everything else if you look at it now if
+
+you believe like this is it and it's
+
+really hitting it really just came down
+
+to gpus and neural networks and like how
+
+much scale you had on those things like
+
+all the other kind of complicated
+
+analysis was probably unnecessary and
+
+had you just sort of gone and said you
+
+know look look at Moore's Law look at
+
+nvidia's GPU density how many nodes in a
+
+neural network at what point will it
+
+start to approximate a human brain like
+
+that's and people did that like you know
+
+Ray Kurzweil and others but like that's
+
+kind of the thing that mattered and I
+
+think it's probably the similar here
+
+like look I mean there's other things we
+
+need I think the infrastructure I think
+
+some people a bit here are building
+
+wallets and other kinds of the tooling
+
+is not there yet quite
+
+um there were all these there's a whole
+
+section in the 90s at Barnes and Noble
+
+of how to get on the internet
+
+literally you would go because you had
+
+to go and download this there's all
+
+these crazy ppoe I remember there's like
+
+these crazy protocols and windows and
+
+like download how do you download so
+
+like the big innovation literally go
+
+read the history go read the good books
+
+on AOL was send everyone a CD because it
+
+was this chicken egg how are you going
+
+to download the protocol if you're on
+
+the internet right so they sent them all
+
+CDs that was a big breakthrough
+
+it sounds ridiculous but that's that's
+
+that was that was 1998 you know so I
+
+mean
+
+um a couple years into it
+
+yeah answer your question I think some
+
+people say that there is this waste in
+
+terms of like the noise in terms of
+
+hacks in terms of like the centralized
+
+yeah I meant waste in the sense of
+
+experimentation right as opposed to yes
+
+that's that's a different sense of waste
+
+yeah thank you yeah thank you
+
+hi Chris uh thanks for the talk I'm Nico
+
+I'm from Skylab so we are building
+
+mechanisms that allow developers and
+
+Gamers to interact with so we have been
+
+thinking a lot about incentive design so
+
+what do you think of um like compared to
+
+say the corporate Network right
+
+um there's a center party that can make
+
+decisions of like how to incentivize the
+
+uh Community Based on uh their first of
+
+all their their incentives and also
+
+considering other people's incentives
+
+right but for for web 3
+
+incentives are more decentralized so and
+
+that opens to a lot of exploits um so
+
+how do you how what do you think of like
+
+what to balance how to balance that and
+
+uh
+
+yeah so you're saying like particularly
+
+with like exploits like yeah so for
+
+example like when you uh for example
+
+like noun style they have to consider uh
+
+how to prevent people from exploiting
+
+the treadery so things like that um I
+
+see it's like kind of like a selfish
+
+bribery attack and like yeah yeah
+
+because everything is yeah well great
+
+question so like let's talk about I
+
+didn't talk about governance yet so the
+
+way I think about governance so
+
+um
+
+prior to blockchains like what is what
+
+is the governance of protocol networks
+
+the governance of protocol networks
+
+basically is
+
+um we're going to create a spec and you
+
+could deviate another way to think about
+
+governance is what happens if a bunch of
+
+nodes go evil
+
+okay so like what happens if a bunch of
+
+SMTP you have email protocol what if
+
+some of the nodes decide you know what
+
+I'm going to start charging everybody to
+
+send an email okay with protocol
+
+networks you basically you basically
+
+protect against that because you have so
+
+many different nodes that if you do that
+
+everyone's gonna be like well I'm not
+
+going to use you you're crap right
+
+because you've got such decentralization
+
+that you've basically have checked the
+
+power of Bad actors right corporate
+
+networks we kind of said screw it let's
+
+just have a dictatorship and hope they
+
+don't turn evil don't be evil
+
+you can judge yourself whether that
+
+worked but there's no governance it's
+
+just like it's literally corporate
+
+governance it's the CEOs the board
+
+um to me the big innovation with
+
+blockchain networks is now you can you
+
+can now write it's not it's not that
+
+we've solved governance I don't think
+
+that's solved yet and maybe it'll never
+
+be it's like humans don't solve
+
+governance I don't know if they ever do
+
+maybe they just come to like an
+
+equilibrium point that doesn't it's not
+
+awful or something right like but um the
+
+the big thing about blockchain networks
+
+is we can now we can now encode
+
+governance into software
+
+right and software is you know as
+
+expressive as human thought it's the
+
+software is the you know computational
+
+embodiment of human thought and so
+
+anything it's sort of like we've now
+
+invented a constitution you can now
+
+write down the rules for the first time
+
+instead of relying on the network
+
+topology in the case of protocol
+
+networks or the Goodwill of a management
+
+team in the case of corporate networks
+
+so we can now write it down okay and
+
+that's a very to me that that's the big
+
+innovation of blockchain governance is
+
+we can now create kind of a formal
+
+Constitution
+
+I I just I'm going to say it this way so
+
+I want to careful like we're not to not
+
+oversell it like we haven't solved
+
+governance but we can now at least start
+
+to have like a really mature interesting
+
+debate around it and in Ideal World if
+
+like we've got a few people but like
+
+governance people to think about
+
+governance would get more interested in
+
+this area and
+
+start working on it like we have Andy
+
+Hall at Stanford who's gotten who's
+
+works with us and there's like a few
+
+other kind of governance experts and I
+
+think more and more getting in there
+
+again I don't think we're going to solve
+
+it but I think we can come up with good
+
+equilibrium states that are kind of that
+
+work well
+
+um but that's the big innovation to me
+
+in blockchain right is that you can now
+
+put into software the governance system
+
+and like what nounselves do I think is
+
+super interesting right like they're
+
+they're a lot of the stuff will have to
+
+come through experimentation right and
+
+they're running some really interesting
+
+experiments
+
+specifically to bribery attacks or like
+
+selfish attacks you know I think the
+
+probably the number one mid against that
+
+is a diverse Community you simply don't
+
+have
+
+single actors with that you know I think
+
+other mechanisms like slashing and other
+
+kinds of punitive mechanisms can be
+
+helpful so I think there's a bunch of
+
+tools there but
+
+you know and how do you balance that
+
+against all the other thing it's these
+
+are complicated questions so
+
+for sure thank you thank you
+
+thank you
+
+um Nikita from chain Patrol I had a
+
+question around uh you know MMOs and you
+
+know the economies that you talked about
+
+um you know right now even just managing
+
+like something like the economy in
+
+RuneScape is difficult like you tweak
+
+one spawn rate or something and like all
+
+the markets change
+
+um do you think uh one do you think any
+
+of these MMOs will open up their economy
+
+to like this global global crypto like
+
+economy because now they have to deal
+
+with like external like external things
+
+maybe outside of their control
+
+hey yeah
+
+yeah well if you're asking me
+
+specifically like will existing games
+
+kind of add this I think some some will
+
+um but it won't be generally the way
+
+these Tech movements work is there's a
+
+new cohort like if you look at gaming uh
+
+free to play gaming and mobile
+
+um what happened was that free to play
+
+started around 2010-ish when IAP started
+
+in an app store and you know the usual
+
+kind of thing where the incumbents sort
+
+of like nfcs they kind of dismissed it
+
+and then there was a new set of startups
+
+including supercells most probably the
+
+most prominent success
+
+um and that those new startups all
+
+became more 10 billion and sort of you
+
+know it's a circle of life and startups
+
+right big companies say this is you know
+
+they there's usually some mixed some of
+
+them dismiss it some do it but do it
+
+half-heartedly a few of them may be
+
+going all in
+
+that's typically what happened and then
+
+and then but most of the opportunity is
+
+taken by startups that's kind of the
+
+historical pattern and that'd be my
+
+default assumption here some will do it
+
+a few few Cutting Edge ones will do it
+
+some won't like the pro these companies
+
+existing big companies like
+
+unless you're founder-led it's just very
+
+hard for them to do kind of new things
+
+there's a whole bunch it's as long as
+
+for those who worked a big it's very
+
+complicated even if the CEO is visionary
+
+and wants to do it like they have a
+
+board they have people on the team you
+
+know I think the I think like I think in
+
+a lot of ways it's a blessing for us
+
+that this nft controversy it's the
+
+craziest thing in the world to me and if
+
+that letting people own if something is
+
+controversial like it's better to have
+
+the company own it like it's upside down
+
+the world but the fact that it is is
+
+probably an opportunity because you have
+
+these revolts and other things and it's
+
+like okay if you wanna
+
+big company wants to not do this you
+
+know we'll just see startups do it so
+
+I'd say I don't know we'll see it'll be
+
+interesting to see
+
+and how do you think
+
+um you know when you're designing a game
+
+economy is there any like approaches
+
+you've seen or things you'd recommend
+
+when
+
+um you know to balance your economy when
+
+it's like connected to this wider system
+
+it's on a closed economy
+
+yeah I mean like this is you know
+
+you know the
+
+Federal Reserve is a you know giant
+
+organization of people that tune one
+
+parameter right so like it's unsolved
+
+problems these are very hard problems no
+
+one solved these things and I expect I
+
+think one would be you got to keep it
+
+flexible like governance systems
+
+parameter tuning needs to be something
+
+it's going to get you're going to get it
+
+wrong
+
+so it needs to be something you've kind
+
+of fine-tuned
+
+um I mean specifically to protocol
+
+design like Eddie and other folks on our
+
+team like that's what they do and they
+
+have a whole I think he's giving a whole
+
+talk on it so I won't try to try to um
+
+you know so take all the all the
+
+specific kind of stuff I would say
+
+um
+
+you know I kind of what I was saying
+
+before like the key thing to me with
+
+faucets is I guess three things I would
+
+say one is balance like what you don't
+
+want to do I think people have made this
+
+mistake where you get too much demand
+
+you get a speculative run and then you
+
+get a bunch of unhappy users right like
+
+so you want to balance supply and demand
+
+and have like a healthy sustainable
+
+growing economy same thing you want to
+
+do in a regular economy right like you
+
+don't want to have stocks go too high or
+
+too low you want to have just like stuff
+
+grow hopefully it never actually works
+
+that way but like an ideal world
+
+everything would just grow three percent
+
+you know GDP or whatever
+
+um
+
+and then you want faucets that
+
+incentivize constructive behavior that
+
+they're actually helping to build the
+
+network doing building software doing
+
+good stuff you know not like the bad
+
+case is like all the you know like the
+
+some of the farming stuff that happens
+
+and like you don't want just like bot
+
+farming and things so how do you kind of
+
+figure that out and then on the sinks I
+
+think aligning it with like like getting
+
+more true players to play the game
+
+they spend money I think like with
+
+gaming specifically like probably you
+
+know you need games that are
+
+fundamentally fun and then people come
+
+for that and then there's there's sort
+
+of an economic flywheel built on top of
+
+it so you're also I think of that as
+
+kind of
+
+buffering the economic side the fact
+
+that you have the sort of fundamental
+
+economy right I mean why is the
+
+Commodities exchange CBOE in Chicago why
+
+is the New York Stock Exchange in New
+
+York and it's because the Commodities of
+
+derivatives and Futures and all these
+
+other things because because they they
+
+came out of agriculture
+
+so you had soybeans and you need to
+
+hedge it and so you had this pairing of
+
+kind of the fundamental economy and the
+
+kind of the the you know the economic
+
+side of it and so I think of the same
+
+thing in a game is like you want to have
+
+this sort of core thing people are maybe
+
+literally like you know building their
+
+stardew Valley Farm or whatever but then
+
+you layer on like an economy on top of
+
+it right so I think that's another kind
+
+of buffering thing but it's a great
+
+question and it's a deep topic and I
+
+want to try to like cover it all now
+
+thank you
+
+okay
+
+uh JP from friends yeah so I have a
+
+question around
+
+um just like consumer products and how
+
+in web 3 a lot of consumer products are
+
+built on on desktop because
+
+um there's no Gatekeepers you're not
+
+dealing with iOS Android you're talking
+
+earlier about gatekeeping around like
+
+Kindle how you can't buy Kindle uh book
+
+without going to the website
+
+um so recently like uni swap they just
+
+created a wallet right and even they
+
+couldn't navigate this particular like
+
+app store approval process my question
+
+is like if we're going to get products
+
+out to the devices that people actually
+
+use like what how do we navigate this
+
+how do we navigate like mobile
+
+Gatekeepers platforms and what how does
+
+this environment have to evolve in order
+
+for crypto to be able to be like
+
+actually viable products for for mobile
+
+users yeah I mean as you know like the
+
+workarounds include desktop they include
+
+web mobile but it's an issue like
+
+particularly the power of Apple and
+
+Google right I mean this is the first
+
+time we've had a Computing platform
+
+like a device layer Computing platform
+
+that was just a duopoly
+
+um
+
+and they are very aggressive on that you
+
+know and I I don't have I honestly don't
+
+have a great solution there except for
+
+at some point you would expect there to
+
+be regulatory pressure due to the fact
+
+that it's clearly stifling competition
+
+but
+
+that takes a while so I don't I mean I
+
+wish I had a better answer there you
+
+know look I think use case I think
+
+having hit games and other kinds of
+
+popular use cases that clearly are not
+
+speculative that show True fundamental
+
+value will help change the narrative
+
+around some of this stuff and that will
+
+also help so that's kind of on you know
+
+hopefully some folks in here help with
+
+that by creating popular stuff
+
+okay thanks yeah
+
+sweet I got it um hi Chris Brendan from
+
+Kiki you talked a little about earlier
+
+from the adoption perspective you know
+
+block space wallet really from the build
+
+side of the app layer when it comes to
+
+end user adoption so think consumer from
+
+a product perspective let's say what's
+
+what's the most important Behavior to
+
+educate people on and to really feel
+
+comfortable with to engaging with
+
+companies that live within the
+
+blockchain space or are building in that
+
+layer
+
+yeah that's a great question I mean I
+
+think I I guess embedded in that
+
+question like I'm not sure we software
+
+gets an opportunity to edu like
+
+ultimately you know when you're talking
+
+about the marginal billions user like
+
+it's got to be probably a lot simpler
+
+than something that educates them so
+
+like a lot of it has to be just baked
+
+into the software experience and there
+
+has to be so you know like I think
+
+there's a lot of things we can do to
+
+improve but my suspicion is that
+
+um
+
+sort of what I was talking about earlier
+
+like feature parity like we just have to
+
+have feature parity like it has to be as
+
+easy as onboarding it has to be like
+
+totally modern experience I don't think
+
+we're quite there yet
+
+um there's you know things these are all
+
+solvable problems but things like Key
+
+Management you know has to all be kind
+
+of just seamless and behind the scenes I
+
+think a lot of people are doing good
+
+work there and that just takes time and
+
+it'll happen
+
+um and then I think ultimately like look
+
+it'll be I think this a lot of this will
+
+be an economic proposition like it's
+
+just a very low hanging fruit how bad
+
+the economics are in corporate networks
+
+so
+
+I think it'll I can say take social
+
+networks I think it'll be creator-led
+
+creators will say I'm tired of paying
+
+100 percent
+
+and I want a different solution we're
+
+already seeing that with things like sub
+
+stack people moving over there and I
+
+think if we can provide the right
+
+Solutions people will move over to
+
+better social networks and then the user
+
+the end user might just come because
+
+their favorite musicians there right
+
+like it's simple as that right like that
+
+to me is a more plausible path for
+
+example for a social network than like
+
+the end user is not going to care about
+
+decentralization not going to care about
+
+all these kind of high-minded things but
+
+the centralization plays into these
+
+things they do care a lot about
+
+especially the supply side of like do
+
+you want to pay 100 of your money to
+
+this company like it's just a that's
+
+that's the thing that's really
+
+reassuring especially on the social
+
+networking side it's just really really
+
+bad right now the economics for most
+
+network network participants and so you
+
+know if we were competing against this
+
+like you know lean mean you know thing
+
+that like they had five percent take
+
+rates and like honestly like I think
+
+it's harder on payments that's that the
+
+payment take rates are two percent like
+
+should two percent of the economy go to
+
+payments moving some bits around
+
+probably not but it's harder to go after
+
+a two percent Target than a 90 100 a lot
+
+harder because okay it's one percent and
+
+they subsidize and they give you points
+
+and all these other things and like
+
+you know so that I think that could be
+
+one of the sort of mistakes people have
+
+made in history of cryptos that are
+
+going after
+
+some industries that actually you know
+
+are fair much more resilient because the
+
+lower take rates
+
+thank you I feel like once you see the
+
+world through the network economics lens
+
+I don't know well that's how I just view
+
+everything now it's like what are the
+
+economics of this and like because in
+
+the end like that I sort of believe a
+
+lot of the economics drives these
+
+behaviors so
+
+great thank you all
+
+oh
+
+[Music]
+

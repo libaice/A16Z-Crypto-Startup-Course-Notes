@@ -10,23 +10,47 @@ A16Z(全称 [Andreessen Horowitz](https://en.wikipedia.org/wiki/Andreessen_Horow
 
 
 
-[这个课程](https://a16zcrypto.com/crypto-startup-school/)是A16Z举办的一个12周的一个加速器计划， 然后每一周都会有一些人来讲一些Web3创业方向的一些知识。 这个课程包括了像是Crypto方面的Why How, What, 然后一些协议设计，代币UX设计，Web3的商业模式，基建，安全 ，还有包括像是公司的企业文化 Marketing和一些社区建设的部分。
+[这个课程](https://a16zcrypto.com/crypto-startup-school/)是A16Z举办的一个12周的一个加速器计划， 然后每一周都会有一些人来讲一些Web3创业方向的一些知识。 这个课程包括了像是Crypto方面的Why How, What，然后一些协议设计，代币设计，用户交互UX设计，Web3的商业模式，基建Infua，安全Security ，零知识证明ZK，还有就是包括像公司的企业文化 ，Marketing和一些社区建设的部分。
 
 
 
-受益于[2014年的 YC 创业课 - How to Start A Startup CS183B ](https://www.youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)( 课程的开讲人就是Sam，当时Sam Altman 还很青涩 哈哈，现在学习这篇课程，就是靠着他的OpenAI企业所衍生的一系列工具来增强课程的学习)。
+受益于[2014年的 YC 创业课 - How to Start A Startup CS183B ](https://www.youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)( 课程的开讲人就是Sam，当时Sam Altman 还很青涩 哈哈）。现在学习这个课程，就是靠着他的OpenAI企业所衍生的一系列工具来增强自己学习的一个效果。
 
 <img src="image/00-01.png" style="zoom:60%;" />
 
-当时是受[李笑来老师的推荐](https://mp.weixin.qq.com/s?__biz=Mzg2NTgxNDY0Nw==&mid=2247488830&idx=2&sn=129a78899a0daf72f7eb8e55c3f56c92&source=41#wechat_redirect)去专门看了这门Start Up课程 ，这门课程讲得非常非常好。然后演讲的嘉宾也是像[Paul Graham YC ](http://www.paulgraham.com/), Marc Andreessen(上面A16ZFounder)。他们都是创造了一些伟大的企业，在YC Start讲了成长商业模式的各种东西，比如企业成长， 融资，企业文化，然后团队建设，市场营销。对当时的我很有启发(现在也受益很多)。 
+而且呢，当时是受[李笑来老师的推荐](https://mp.weixin.qq.com/s?__biz=Mzg2NTgxNDY0Nw==&mid=2247488830&idx=2&sn=129a78899a0daf72f7eb8e55c3f56c92&source=41#wechat_redirect)去看了这门Start Up课程 ，这门课程讲得非常非常好。然后演讲的嘉宾也是像[Paul Graham YC创业营 ](http://www.paulgraham.com/), Marc Andreessen(上面A16ZFounder) 这些大牛。他们创造了一些伟大的企业，在YC创业课程方面讲述了很多关于创业方面的知识，比如企业成长， 融资，企业文化，团队建设，市场营销等等。对当时的我很有启发(现在也受益很多)。 
 
 
 
-课程最后的那段[Sam对19岁年轻人的建议](https://genius.com/Sam-altman-advice-for-ambitious-19-year-olds-annotated)，也是听得我热血沸腾。
+课程最后的那段[Sam对19岁年轻人的建议](https://blog.samaltman.com/advice-for-ambitious-19-year-olds)，也是听得我热血沸腾。
+
+> * No matter what you choose, build stuff and be around smart people. 
+>
+> * Getting nothing done for four of your most productive years is actually pretty risky
+> *  If you fail at an idea that you really loved and could have been great, you’re unlikely to regret it, and people will not hold it against you
+> * One big pro for starting a company is that it’s usually the way to learn the most in the shortest amount of time. 
 
 
 
-当时的我也很幼稚，课程里面的东西也没实践。
+这也是我最喜欢Crypto行业的一个原因，从最早的开源，Geek 精神，慢慢的进化出智能合约，之后各种玩法玩法(defi，NFT，Staking，TradFi, Farming, Arbitrage)，有很多创新，走向了百花齐放的时代。
+
+> * 这里聪明人多，即使是有很多Ponzi ,骗子项目，也是证明他足够聪明才能骗到自己。 而且最近的各个生态的hackathon ，都有很多聪明人在Build 有趣的项目。
+> * 最富有动力，生产力的几年，应该把时间花在能够获得成长最多的领域，在学习工作上追求一个只是"看起来"很稳定的一些东西，我觉得对自己是不负责任的。
+> * 在自己的想法上，自己想要去尝试的做的事情上，如果当下我不做这些事情，在很多年后我会因为没做这件事情而感到非常的后悔。我对自己的后悔，会远远大于对当下做错失败而面临一系列问题的恐惧。
+>
+> * 学习是很重要的一件事情。能够在最短时间内学到最多的东西是值得的。从最简单的"Making some Stuff"，一步步学习"Startup"，我们会面临很多问题，但是，不要恐惧，在这个过程中，自己解决问题的能力也在不断的提高。
+
+
+
+
+
+
+
+### 2. 课程计划
+
+ 
+
+
 
 
 
